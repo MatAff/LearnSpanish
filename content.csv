@@ -31,8 +31,8 @@
 "Señor","Sir","ch01;introductions",NA
 "Señora","Mrs.","ch01;introductions",NA
 "Señorita","Miss","ch01;introductions",NA
-"El día","The day","ch01;dates",NA
-"La semana","The week","ch01;dates",NA
+"El día","The day","ch01;dates;object",NA
+"La semana","The week","ch01;dates;object",NA
 "El mes","the month","ch01;dates",NA
 "El año","The year","ch01;dates",NA
 "En","In","ch01;dates",NA
@@ -107,16 +107,16 @@
 "¿Cuál es la fecha de hoy?","What is today's date?","ch01;sentences",NA
 "¿Que dia es hoy?","Whay day is it?","ch01;sentences",NA
 "Es el treinta y uno de enero","It is the 31st of January","ch01;sentences",NA
-"Es el quince de enero","It is the 15th of January","ch01;sentences",1
+"Es el quince de enero","It is the 15th of January","ch01;sentences","1"
 "Es el diecisiete de abril","It is the 17th of April","ch01;sentences",NA
 "Es el dieciséis de junio","It is the 16th of June","ch01;sentences",NA
 "El el trece de septembre","It is the 13th of September","ch01;sentences",NA
 "¿Cuando es tu cumpleaños?","When is your birthday?","ch01;sentences",NA
 "¿Cuántos años tienes?","How old are you?","ch01;sentences",NA
-"¿De dóndo eres?","Where are you from?","ch01;sentences",1
-"Cumpleaños","Birthday","ch01",1
+"¿De dóndo eres?","Where are you from?","ch01;sentences","1"
+"Cumpleaños","Birthday","ch01","1"
 "Hoy","Today","ch01",NA
-"La fecha","The date","ch01",NA
+"La fecha","The date","ch01;object",NA
 "Hoy es lunes","Today is Monday","ch01;sentences",NA
 "Hoy es martes","Today is Tuesday","ch01;sentences",NA
 "Hoy es miércoles","Today is Wednesday","ch01;sentences",NA
@@ -251,7 +251,7 @@
 "Fácil","Easy","ch03;school",NA
 "Enseñar","To teach","ch03;school;regVerb",NA
 "La tarea","Homework","ch03;school",NA
-"La hora","Time","ch03;time",NA
+"La hora","Time (the hour)","ch03;time",NA
 "Empezar","To start","ch03;time;regVerb",NA
 "Empieza","It starts","ch03;time",NA
 "Terminar","To end","ch03;time;regVerb",NA
@@ -278,25 +278,25 @@
 "Son las once y media de la noche","It's 11:30 in the evening","ch03;time",NA
 "Cuarenta","Fourty","ch03;numbers",NA
 "Cincuenta","Fifty","ch03;numbers",NA
-"La agenda","The daily planner","ch03;things;officeSupplies",NA
-"El archivador","The filing cabinet","ch03;things;officeSupplies",NA
-"La calculadora","The calculator","ch03;things;officeSupplies",NA
-"El calendario","The calendar","ch03;things;officeSupplies",NA
-"La capeta","The file folder","ch03;things;officeSupplies",NA
-"La computadora","The computer","ch03;things;officeSupplies",NA
-"El cuaderno","The notebook","ch03;things;officeSupplies",NA
-"El diccionario","The dictionary","ch03;things;officeSupplies",NA
-"El escritorio","The desk","ch03;things;officeSupplies",NA
-"El horario","The schedule","ch03;things;officeSupplies",NA
-"El lápiz","The pencil","ch03;things;officeSupplies",NA
+"La agenda","The daily planner","ch03;things;officeSupplies;object",NA
+"El archivador","The filing cabinet","ch03;things;officeSupplies;object",NA
+"La calculadora","The calculator","ch03;things;officeSupplies;object",NA
+"El calendario","The calendar","ch03;things;officeSupplies;object",NA
+"La capeta","The file folder","ch03;things;officeSupplies;object",NA
+"La computadora","The computer","ch03;things;officeSupplies;object",NA
+"El cuaderno","The notebook","ch03;things;officeSupplies;object",NA
+"El diccionario","The dictionary","ch03;things;officeSupplies;object",NA
+"El escritorio","The desk","ch03;things;officeSupplies;object",NA
+"El horario","The schedule","ch03;things;officeSupplies;object",NA
+"El lápiz","The pencil","ch03;things;officeSupplies;object",NA
 "Los lápices","The pencils","ch03;things;officeSupplies",NA
-"El libro","The book","ch03;things;officeSupplies",NA
-"El marcador","The marker","ch03;things;officeSupplies",NA
-"La mochila","The paperback","ch03;things;officeSupplies",NA
-"El papel","The paper","ch03;things;officeSupplies",NA
-"La pluma","The pen","ch03;things;officeSupplies",NA
-"El bolígrafo","The pen","ch03;things;officeSupplies",NA
-"La regla","The ruler/rule","ch03;things;officeSupplies",NA
+"El libro","The book","ch03;things;officeSupplies;object",NA
+"El marcador","The marker","ch03;things;officeSupplies;object",NA
+"La mochila","The paperback","ch03;things;officeSupplies;object",NA
+"El papel","The paper","ch03;things;officeSupplies;object",NA
+"La pluma","The pen","ch03;things;officeSupplies;object",NA
+"El bolígrafo","The pen","ch03;things;officeSupplies;object",NA
+"La regla","The ruler/rule","ch03;things;officeSupplies;object",NA
 "La cita","The appointment","ch03;work",NA
 "La escuela","The school","ch03;school;object",NA
 "La reunión","The meeting","ch03;work",NA
@@ -317,7 +317,7 @@
 "La clase es en la mediodía","The class is at midday","ch02;sentences",NA
 "Tu estas infermo","You are ill","ch02;sentences",NA
 "Me encantan los libros","The books delight me","ch03;sentences",NA
-"Nos gusta la casa","We like the house","ch02;sentences",1
+"Nos gusta la casa","We like the house","ch02;sentences","1"
 "Me gusta nadar","I like to swim","ch02;sentences",NA
 "Nos gustan los casas","We like the houses","ch02;sentences",NA
 "Me gusta empezar la clase","I like to start the calss","ch03;sentences",NA
@@ -474,20 +474,20 @@
 "Ellas quieren","They (feminine) want","ch04;toWant;verb;irregVerb",NA
 "Ustedes quieren","You (plural,formal) want","ch04;toWant;verb;irregVerb",NA
 "Yo escucho musica","I listen to music","ch03;sentences",NA
-"¿Te gusta trabajar?","Do you like to work?","ch03;sentences",1
-"Nosotros llegamos tarde por la cita","We arrived late for the appointment","ch03;sentences",1
+"¿Te gusta trabajar?","Do you like to work?","ch03;sentences","1"
+"Nosotros llegamos tarde por la cita","We arrived late for the appointment","ch03;sentences","1"
 "La estudiante estudia arte","The student (f) studies art","ch03;sentences",NA
 "Quizas mas tarde","Maybe later","ch03;sentences",NA
 "La clase de matimaticas","Math class","ch03;sentences",NA
 "Nosotros estamos tarde para la cita","We are late for the appointment","ch03;sentences",NA
 "Yo puedo mirar a gatos","I can look at cats","ch03;sentences",NA
-"No tú ni puedes mirar a gatos","No you can not look at cats","ch03;sentences",1
+"No tú ni puedes mirar a gatos","No you can not look at cats","ch03;sentences","1"
 "Aqui esta la estudianta con la computadora","Here is the student with the computer","ch03;sentences",NA
 "Quiza Yo hablo espanol","Maybe I speak spanish. ","ch03;sentences",NA
 "Te gusta cerveza?","Do you like beer?","ch03;sentences",NA
 "Son los dos en viernes","It's 2 on a Friday. ","ch03;sentences",NA
 "Yo tengo diecinueve anos hoy!","I am 19 today! ","ch03;sentences",NA
-"El habla de gatos","He talks about cats","ch03;sentences",1
+"El habla de gatos","He talks about cats","ch03;sentences","1"
 "El esta contento","He is happy","ch03;sentences",NA
 "Ellos quieren fiesta","They want to party","ch03;sentences",NA
 "Yo tengo un reunion con mi mentor","I have a meeting with my mentor","ch03;sentences",NA
@@ -555,113 +555,227 @@
 "Tú vas a","You are going to","ch03;personX",NA
 "El va a","He is going to","ch03;personX",NA
 "Ella va","She is going to","ch03;personX",NA
-"Le gusta estar con amigos","She likes (to) be with friends","personXInf;generated",0
-"Tú sabes ir al cine","You know (to) go (to) the movies","personXInf;generated",0
-"Tú prefieres estar con amigos","You prefer (to) be with friends","personXInf;generated",0
-"El puede escuchar música","He can (to) listen (to) music","personXInf;generated",0
-"Le gusta ir a la escuela","She likes (to) go (to) school","personXInf;generated",0
-"Ella prefiere pintar","She prefers (to) paint","personXInf;generated",0
-"Ella tiene patinar","She has to (to) skate","personXInf;generated",0
-"Yo sé pintar","I know (to) paint","personXInf;generated",0
-"Ella necesita patinar","She needs (to) skate","personXInf;generated",0
-"Ella puede pintar","She can (to) paint","personXInf;generated",0
-"Ella puede nadar","She can (to) swim","personXInf;generated",0
-"Yo sé ayudar en casa","I know (to) help around the house","personXInf;generated",0
-"Yo voy a patinar","I am going to (to) skate","personXInf;generated",0
-"Yo quiero nadar","I want (to) swim","personXInf;generated",0
-"El necesita ayudar en casa","He needs (to) help around the house","personXInf;generated",0
-"Tú vas a estar con amigos","You are going to (to) be with friends","personXInf;generated",0
-"El va a ir a la escuela","He is going to (to) go (to) school","personXInf;generated",0
-"Tú necesitas patinar","You need (to) skate","personXInf;generated",0
-"Le gusta tocar la guitarra","She likes (to) play the guitar","personXInf;generated",0
-"Te gusta ver la televisión","You like (to) watch tv","personXInf;generated",0
-"Me gusta patinar","I like (to) skate","personXInf;generated",0
-"El tiene pintar","He has to (to) paint","personXInf;generated",0
-"Le gusta nadar","She likes (to) swim","personXInf;generated",0
-"Tú necesitas trabajar","You need (to) work","personXInf;generated",0
-"El necesita trabajar","He needs (to) work","personXInf;generated",0
-"Le gusta nadar","He likes (to) swim","personXInf;generated",0
-"Ella necesita practica deportes","She needs (to) play sports","personXInf;generated",0
-"Tú vas a leer","You are going to (to) read","personXInf;generated",0
-"Tú tienes que ir al cine","You have to (to) go (to) the movies","personXInf;generated",0
-"Yo tengo que nadar","I have to  (to) swim","personXInf;generated",0
-"Tú prefieres dibujar","You prefer (to) draw","personXInf;generated",0
-"Ella puede patinar","She can (to) skate","personXInf;generated",0
-"Yo necesito hablar","I need (to) talk","personXInf;generated",0
-"Yo prefiero escuchar música","I prefer (to) listen (to) music","personXInf;generated",0
-"Tú prefieres hablar","You prefer (to) talk","personXInf;generated",0
-"Yo quiero practica deportes","I want (to) play sports","personXInf;generated",0
-"Ella sabe tocar la guitarra","She knows (to) play the guitar","personXInf;generated",0
-"Le gusta estar con amigos","She likes (to) be with friends","personXInf;generated",0
-"Yo quiero hacer","I want (to) do","personXInf;generated",0
-"Yo necesito estudiar","I need (to) study","personXInf;generated",0
-"El sabe patinar","He knows (to) skate","personXInf;generated",0
-"Ella puede tocar la guitarra","She can (to) play the guitar","personXInf;generated",0
-"Yo prefiero estar con amigos","I prefer (to) be with friends","personXInf;generated",0
-"Ella quiere leer","She wants (to) read","personXInf;generated",0
-"Tú prefieres nadar","You prefer (to) swim","personXInf;generated",0
-"Tú sabes escribir","You know (to) write","personXInf;generated",0
-"Ella puede ir al cine","She can (to) go (to) the movies","personXInf;generated",0
-"Ella tiene estar con amigos","She has to (to) be with friends","personXInf;generated",0
-"Me gusta ver la televisión","I like (to) watch tv","personXInf;generated",0
-"El prefiere dibujar","He prefers (to) draw","personXInf;generated",0
-"El prefiere estar con amigos","He prefers (to) be with friends","personXInf;generated",0
-"Yo necesito tocar la guitarra","I need (to) play the guitar","personXInf;generated",0
-"Ella tiene patinar","She has to (to) skate","personXInf;generated",0
-"Tú sabes cocinar","You know (to) cook","personXInf;generated",0
-"Yo voy a cocinar","I am going to (to) cook","personXInf;generated",0
-"Ella puede dibujar","She can (to) draw","personXInf;generated",0
-"Yo tengo que hablar","I have to  (to) talk","personXInf;generated",0
-"Ella quiere escribir","She wants (to) write","personXInf;generated",0
-"Tú quieres patinar","You want (to) skate","personXInf;generated",0
-"Tú necesitas ver la televisión","You need (to) watch tv","personXInf;generated",0
-"El sabe escuchar música","He knows (to) listen (to) music","personXInf;generated",0
-"El va a patinar","He is going to (to) skate","personXInf;generated",0
-"Yo tengo que ayudar en casa","I have to  (to) help around the house","personXInf;generated",0
-"El va a ir a la escuela","He is going to (to) go (to) school","personXInf;generated",0
-"El tiene hacer","He has to (to) do","personXInf;generated",0
-"Yo quiero escuchar música","I want (to) listen (to) music","personXInf;generated",0
-"Le gusta estar con amigos","He likes (to) be with friends","personXInf;generated",0
-"El quiere tocar la guitarra","He wants (to) play the guitar","personXInf;generated",0
-"Ella prefiere escribir","She prefers (to) write","personXInf;generated",0
-"Me gusta estar con amigos","I like (to) be with friends","personXInf;generated",0
-"Tú tienes que escuchar música","You have to (to) listen (to) music","personXInf;generated",0
-"Ella puede nadar","She can (to) swim","personXInf;generated",0
-"Ella necesita hablar","She needs (to) talk","personXInf;generated",0
-"Tú tienes que hablar","You have to (to) talk","personXInf;generated",0
-"Ella necesita escuchar música","She needs (to) listen (to) music","personXInf;generated",0
-"Ella tiene estudiar","She has to (to) study","personXInf;generated",0
-"Yo tengo que hablar","I have to  (to) talk","personXInf;generated",0
-"Yo voy a cocinar","I am going to (to) cook","personXInf;generated",0
-"Tú quieres estar con amigos","You want (to) be with friends","personXInf;generated",0
-"Tú vas a estar con amigos","You are going to (to) be with friends","personXInf;generated",0
-"Tú necesitas cocinar","You need (to) cook","personXInf;generated",0
-"Tú quieres hacer","You want (to) do","personXInf;generated",0
-"El tiene ir al cine","He has to (to) go (to) the movies","personXInf;generated",0
-"Ella puede ayudar en casa","She can (to) help around the house","personXInf;generated",0
-"Ella quiere ver la televisión","She wants (to) watch tv","personXInf;generated",0
-"Ella puede ver la televisión","She can (to) watch tv","personXInf;generated",0
-"Le gusta pintar","He likes (to) paint","personXInf;generated",0
-"Tú sabes ir al cine","You know (to) go (to) the movies","personXInf;generated",0
-"Yo tengo que nadar","I have to  (to) swim","personXInf;generated",0
-"Yo necesito estudiar","I need (to) study","personXInf;generated",0
-"Tú quieres escribir","You want (to) write","personXInf;generated",0
-"Yo sé practica deportes","I know (to) play sports","personXInf;generated",0
-"Tú vas a ir al cine","You are going to (to) go (to) the movies","personXInf;generated",0
-"Tú puedes pintar","You can (to) paint","personXInf;generated",0
-"Ella puede pintar","She can (to) paint","personXInf;generated",0
-"Tú prefieres trabajar","You prefer (to) work","personXInf;generated",0
-"El tiene escuchar música","He has to (to) listen (to) music","personXInf;generated",0
-"Tú sabes practica deportes","You know (to) play sports","personXInf;generated",0
-"Yo tengo que ver la televisión","I have to  (to) watch tv","personXInf;generated",0
-"El va a ayudar en casa","He is going to (to) help around the house","personXInf;generated",0
-"Yo Cocino; Té Cocinas; El Cocina","I cook; You cook; He cooks","conj;generated",0
-"Yo Dibujo; Té Dibujas; El Dibuja","I draw; You draw; He draws","conj;generated",0
-"Yo Escribo; Té Escribes; El Escribe","I write; You write; He writes","conj;generated",0
-"Yo Estudio; Té Estudias; El Estudia","I study; You study; He studys","conj;generated",0
-"Yo Hablo; Té Hablas; El Habla","I talk; You talk; He talks","conj;generated",0
-"Yo Haco; Té Haces; El Hace","I do; You do; He dos","conj;generated",0
-"Yo Leo; Té Lees; El Lee","I read; You read; He reads","conj;generated",0
-"Yo Nado; Té Nadas; El Nada","I swim; You swim; He swims","conj;generated",0
-"Yo Patino; Té Patinas; El Patina","I skate; You skate; He skates","conj;generated",0
-"Yo Pinto; Té Pintas; El Pinta","I paint; You paint; He paints","conj;generated",0
+"Le gusta estar con amigos","She likes (to) be with friends","personXInf;generated","0"
+"Tú sabes ir al cine","You know (to) go (to) the movies","personXInf;generated","0"
+"Tú prefieres estar con amigos","You prefer (to) be with friends","personXInf;generated","0"
+"El puede escuchar música","He can (to) listen (to) music","personXInf;generated","0"
+"Le gusta ir a la escuela","She likes (to) go (to) school","personXInf;generated","0"
+"Ella prefiere pintar","She prefers (to) paint","personXInf;generated","0"
+"Ella tiene patinar","She has to (to) skate","personXInf;generated","0"
+"Yo sé pintar","I know (to) paint","personXInf;generated","0"
+"Ella necesita patinar","She needs (to) skate","personXInf;generated","0"
+"Ella puede pintar","She can (to) paint","personXInf;generated","0"
+"Ella puede nadar","She can (to) swim","personXInf;generated","0"
+"Yo sé ayudar en casa","I know (to) help around the house","personXInf;generated","0"
+"Yo voy a patinar","I am going to (to) skate","personXInf;generated","0"
+"Yo quiero nadar","I want (to) swim","personXInf;generated","0"
+"El necesita ayudar en casa","He needs (to) help around the house","personXInf;generated","0"
+"Tú vas a estar con amigos","You are going to (to) be with friends","personXInf;generated","0"
+"El va a ir a la escuela","He is going to (to) go (to) school","personXInf;generated","0"
+"Tú necesitas patinar","You need (to) skate","personXInf;generated","0"
+"Le gusta tocar la guitarra","She likes (to) play the guitar","personXInf;generated","0"
+"Te gusta ver la televisión","You like (to) watch tv","personXInf;generated","0"
+"Me gusta patinar","I like (to) skate","personXInf;generated","0"
+"El tiene pintar","He has to (to) paint","personXInf;generated","0"
+"Le gusta nadar","She likes (to) swim","personXInf;generated","0"
+"Tú necesitas trabajar","You need (to) work","personXInf;generated","0"
+"El necesita trabajar","He needs (to) work","personXInf;generated","0"
+"Le gusta nadar","He likes (to) swim","personXInf;generated","0"
+"Ella necesita practica deportes","She needs (to) play sports","personXInf;generated","0"
+"Tú vas a leer","You are going to (to) read","personXInf;generated","0"
+"Tú tienes que ir al cine","You have to (to) go (to) the movies","personXInf;generated","0"
+"Yo tengo que nadar","I have to  (to) swim","personXInf;generated","0"
+"Tú prefieres dibujar","You prefer (to) draw","personXInf;generated","0"
+"Ella puede patinar","She can (to) skate","personXInf;generated","0"
+"Yo necesito hablar","I need (to) talk","personXInf;generated","0"
+"Yo prefiero escuchar música","I prefer (to) listen (to) music","personXInf;generated","0"
+"Tú prefieres hablar","You prefer (to) talk","personXInf;generated","0"
+"Yo quiero practica deportes","I want (to) play sports","personXInf;generated","0"
+"Ella sabe tocar la guitarra","She knows (to) play the guitar","personXInf;generated","0"
+"Le gusta estar con amigos","She likes (to) be with friends","personXInf;generated","0"
+"Yo quiero hacer","I want (to) do","personXInf;generated","0"
+"Yo necesito estudiar","I need (to) study","personXInf;generated","0"
+"El sabe patinar","He knows (to) skate","personXInf;generated","0"
+"Ella puede tocar la guitarra","She can (to) play the guitar","personXInf;generated","0"
+"Yo prefiero estar con amigos","I prefer (to) be with friends","personXInf;generated","0"
+"Ella quiere leer","She wants (to) read","personXInf;generated","0"
+"Tú prefieres nadar","You prefer (to) swim","personXInf;generated","0"
+"Tú sabes escribir","You know (to) write","personXInf;generated","0"
+"Ella puede ir al cine","She can (to) go (to) the movies","personXInf;generated","0"
+"Ella tiene estar con amigos","She has to (to) be with friends","personXInf;generated","0"
+"Me gusta ver la televisión","I like (to) watch tv","personXInf;generated","0"
+"El prefiere dibujar","He prefers (to) draw","personXInf;generated","0"
+"El prefiere estar con amigos","He prefers (to) be with friends","personXInf;generated","0"
+"Yo necesito tocar la guitarra","I need (to) play the guitar","personXInf;generated","0"
+"Ella tiene patinar","She has to (to) skate","personXInf;generated","0"
+"Tú sabes cocinar","You know (to) cook","personXInf;generated","0"
+"Yo voy a cocinar","I am going to (to) cook","personXInf;generated","0"
+"Ella puede dibujar","She can (to) draw","personXInf;generated","0"
+"Yo tengo que hablar","I have to  (to) talk","personXInf;generated","0"
+"Ella quiere escribir","She wants (to) write","personXInf;generated","0"
+"Tú quieres patinar","You want (to) skate","personXInf;generated","0"
+"Tú necesitas ver la televisión","You need (to) watch tv","personXInf;generated","0"
+"El sabe escuchar música","He knows (to) listen (to) music","personXInf;generated","0"
+"El va a patinar","He is going to (to) skate","personXInf;generated","0"
+"Yo tengo que ayudar en casa","I have to  (to) help around the house","personXInf;generated","0"
+"El va a ir a la escuela","He is going to (to) go (to) school","personXInf;generated","0"
+"El tiene hacer","He has to (to) do","personXInf;generated","0"
+"Yo quiero escuchar música","I want (to) listen (to) music","personXInf;generated","0"
+"Le gusta estar con amigos","He likes (to) be with friends","personXInf;generated","0"
+"El quiere tocar la guitarra","He wants (to) play the guitar","personXInf;generated","0"
+"Ella prefiere escribir","She prefers (to) write","personXInf;generated","0"
+"Me gusta estar con amigos","I like (to) be with friends","personXInf;generated","0"
+"Tú tienes que escuchar música","You have to (to) listen (to) music","personXInf;generated","0"
+"Ella puede nadar","She can (to) swim","personXInf;generated","0"
+"Ella necesita hablar","She needs (to) talk","personXInf;generated","0"
+"Tú tienes que hablar","You have to (to) talk","personXInf;generated","0"
+"Ella necesita escuchar música","She needs (to) listen (to) music","personXInf;generated","0"
+"Ella tiene estudiar","She has to (to) study","personXInf;generated","0"
+"Yo tengo que hablar","I have to  (to) talk","personXInf;generated","0"
+"Yo voy a cocinar","I am going to (to) cook","personXInf;generated","0"
+"Tú quieres estar con amigos","You want (to) be with friends","personXInf;generated","0"
+"Tú vas a estar con amigos","You are going to (to) be with friends","personXInf;generated","0"
+"Tú necesitas cocinar","You need (to) cook","personXInf;generated","0"
+"Tú quieres hacer","You want (to) do","personXInf;generated","0"
+"El tiene ir al cine","He has to (to) go (to) the movies","personXInf;generated","0"
+"Ella puede ayudar en casa","She can (to) help around the house","personXInf;generated","0"
+"Ella quiere ver la televisión","She wants (to) watch tv","personXInf;generated","0"
+"Ella puede ver la televisión","She can (to) watch tv","personXInf;generated","0"
+"Le gusta pintar","He likes (to) paint","personXInf;generated","0"
+"Tú sabes ir al cine","You know (to) go (to) the movies","personXInf;generated","0"
+"Yo tengo que nadar","I have to  (to) swim","personXInf;generated","0"
+"Yo necesito estudiar","I need (to) study","personXInf;generated","0"
+"Tú quieres escribir","You want (to) write","personXInf;generated","0"
+"Yo sé practica deportes","I know (to) play sports","personXInf;generated","0"
+"Tú vas a ir al cine","You are going to (to) go (to) the movies","personXInf;generated","0"
+"Tú puedes pintar","You can (to) paint","personXInf;generated","0"
+"Ella puede pintar","She can (to) paint","personXInf;generated","0"
+"Tú prefieres trabajar","You prefer (to) work","personXInf;generated","0"
+"El tiene escuchar música","He has to (to) listen (to) music","personXInf;generated","0"
+"Tú sabes practica deportes","You know (to) play sports","personXInf;generated","0"
+"Yo tengo que ver la televisión","I have to  (to) watch tv","personXInf;generated","0"
+"El va a ayudar en casa","He is going to (to) help around the house","personXInf;generated","0"
+"Yo Cocino; Té Cocinas; El Cocina","I cook; You cook; He cooks","conj;generated","0"
+"Yo Dibujo; Té Dibujas; El Dibuja","I draw; You draw; He draws","conj;generated","0"
+"Yo Escribo; Té Escribes; El Escribe","I write; You write; He writes","conj;generated","0"
+"Yo Estudio; Té Estudias; El Estudia","I study; You study; He studys","conj;generated","0"
+"Yo Hablo; Té Hablas; El Habla","I talk; You talk; He talks","conj;generated","0"
+"Yo Haco; Té Haces; El Hace","I do; You do; He dos","conj;generated","0"
+"Yo Leo; Té Lees; El Lee","I read; You read; He reads","conj;generated","0"
+"Yo Nado; Té Nadas; El Nada","I swim; You swim; He swims","conj;generated","0"
+"Yo Patino; Té Patinas; El Patina","I skate; You skate; He skates","conj;generated","0"
+"Yo Pinto; Té Pintas; El Pinta","I paint; You paint; He paints","conj;generated","0"
+"Siempre","","frequency","0"
+"Nunca","","frequency","0"
+"Casi","Almost","frequency","0"
+"Aveces","","frequency","0"
+"Todos los días","Every day","frequency","0"
+"Todos las semanas","Every week","frequency","0"
+"Todos los años","Every year","frequency","0"
+"frecuentamente","frequently","frequency","0"
+"Con mucho frecuenta","Regularly","frequency","0"
+"Muchas veces","Many times","frequency","0"
+"Pocas veces","Sometimes","frequency","0"
+"La semana que vienes","The coming week","frequency","0"
+"La semana proxima","Next week","frequency","0"
+"La mesa","The table","object","0"
+"Esas libros","Those books","thisEtc;generated","0"
+"Esta papel","This paper","thisEtc;generated","0"
+"Esa mesa","That table","thisEtc;generated","0"
+"Esta mesa","This table","thisEtc;generated","0"
+"Estas escritorios","These desks","thisEtc;generated","0"
+"Esas escuelas","Those schools","thisEtc;generated","0"
+"Esa computadora","That computer","thisEtc;generated","0"
+"Esas semanas","Those weeks","thisEtc;generated","0"
+"Esa semana","That week","thisEtc;generated","0"
+"Estas calendarios","These calendars","thisEtc;generated","0"
+"Esta diccionario","This dictionary","thisEtc;generated","0"
+"Esas archivadors","Those cabinets","thisEtc;generated","0"
+"Esa día","That day","thisEtc;generated","0"
+"Esa calculadora","That calculator","thisEtc;generated","0"
+"Esta capeta","This folder","thisEtc;generated","0"
+"Esa bolígrafo","That pen","thisEtc;generated","0"
+"Esas libros","Those books","thisEtc;generated","0"
+"Esta archivador","This cabinet","thisEtc;generated","0"
+"Esa capeta","That folder","thisEtc;generated","0"
+"Esa archivador","That cabinet","thisEtc;generated","0"
+"Estas papels","These papers","thisEtc;generated","0"
+"Esa semana","That week","thisEtc;generated","0"
+"Esa marcador","That marker","thisEtc;generated","0"
+"Esas agendas","Those planners","thisEtc;generated","0"
+"Esa agenda","That planner","thisEtc;generated","0"
+"Estas capetas","These folders","thisEtc;generated","0"
+"Estas reglas","These ruler/rules","thisEtc;generated","0"
+"Esas cuadernos","Those notebooks","thisEtc;generated","0"
+"Esas semanas","Those weeks","thisEtc;generated","0"
+"Esa mochila","That paperback","thisEtc;generated","0"
+"Esa pluma","That pen","thisEtc;generated","0"
+"Esa papel","That paper","thisEtc;generated","0"
+"Esa calculadora","That calculator","thisEtc;generated","0"
+"Esa cuaderno","That notebook","thisEtc;generated","0"
+"Esta fecha","This date","thisEtc;generated","0"
+"Esas escritorios","Those desks","thisEtc;generated","0"
+"Estas marcadors","These markers","thisEtc;generated","0"
+"Esa semana","That week","thisEtc;generated","0"
+"Esta lápiz","This pencil","thisEtc;generated","0"
+"Esa capeta","That folder","thisEtc;generated","0"
+"Esta escuela","This school","thisEtc;generated","0"
+"Esa lápiz","That pencil","thisEtc;generated","0"
+"Esta escritorio","This desk","thisEtc;generated","0"
+"Esas agendas","Those planners","thisEtc;generated","0"
+"Estas cuadernos","These notebooks","thisEtc;generated","0"
+"Estas cuadernos","These notebooks","thisEtc;generated","0"
+"Esas libros","Those books","thisEtc;generated","0"
+"Esta día","This day","thisEtc;generated","0"
+"Estas días","These days","thisEtc;generated","0"
+"Esa horario","That schedule","thisEtc;generated","0"
+"Tú necesitas esta archivador","You need this cabinet","personXThisEtc;generated","0"
+"Yo sé esta libro","I know this book","personXThisEtc;generated","0"
+"El tiene estas mesas","He has to these tables","personXThisEtc;generated","0"
+"Tú tienes que esta escritorio","You have to this desk","personXThisEtc;generated","0"
+"El tiene esta escritorio","He has to this desk","personXThisEtc;generated","0"
+"Te gusta esa lápiz","You like that pencil","personXThisEtc;generated","0"
+"Ella necesita esa mochila","She needs that paperback","personXThisEtc;generated","0"
+"Ella va esta fecha","She is going to this date","personXThisEtc;generated","0"
+"Yo tengo que esta cuaderno","I have to  this notebook","personXThisEtc;generated","0"
+"El quiere esa fecha","He wants that date","personXThisEtc;generated","0"
+"El tiene esta papel","He has to this paper","personXThisEtc;generated","0"
+"El tiene esas capetas","He has to those folders","personXThisEtc;generated","0"
+"El va a estas papels","He is going to these papers","personXThisEtc;generated","0"
+"El prefiere esta computadora","He prefers this computer","personXThisEtc;generated","0"
+"Tú necesitas esta mesa","You need this table","personXThisEtc;generated","0"
+"El tiene esas diccionarios","He has to those dictionarys","personXThisEtc;generated","0"
+"El necesita esa escritorio","He needs that desk","personXThisEtc;generated","0"
+"Ella tiene esa marcador","She has to that marker","personXThisEtc;generated","0"
+"Ella prefiere estas calendarios","She prefers these calendars","personXThisEtc;generated","0"
+"El quiere estas archivadors","He wants these cabinets","personXThisEtc;generated","0"
+"Ella sabe estas computadoras","She knows these computers","personXThisEtc;generated","0"
+"Le gusta esta bolígrafo","He likes this pen","personXThisEtc;generated","0"
+"El sabe esta computadora","He knows this computer","personXThisEtc;generated","0"
+"Yo tengo que esta papel","I have to  this paper","personXThisEtc;generated","0"
+"Yo tengo que esas reglas","I have to  those ruler/rules","personXThisEtc;generated","0"
+"Yo quiero estas escritorios","I want these desks","personXThisEtc;generated","0"
+"Tú tienes que esa calculadora","You have to that calculator","personXThisEtc;generated","0"
+"Tú necesitas esas calculadoras","You need those calculators","personXThisEtc;generated","0"
+"Te gusta esas marcadors","You like those markers","personXThisEtc;generated","0"
+"Me gusta esa horario","I like that schedule","personXThisEtc;generated","0"
+"Tú vas a estas cuadernos","You are going to these notebooks","personXThisEtc;generated","0"
+"Ella tiene esas mesas","She has to those tables","personXThisEtc;generated","0"
+"Me gusta esta escuela","I like this school","personXThisEtc;generated","0"
+"Tú sabes esas plumas","You know those pens","personXThisEtc;generated","0"
+"Tú puedes esa diccionario","You can that dictionary","personXThisEtc;generated","0"
+"Tú tienes que esta lápiz","You have to this pencil","personXThisEtc;generated","0"
+"Yo quiero esta semana","I want this week","personXThisEtc;generated","0"
+"Me gusta esa pluma","I like that pen","personXThisEtc;generated","0"
+"El puede esa mochila","He can that paperback","personXThisEtc;generated","0"
+"Yo voy a esas semanas","I am going to those weeks","personXThisEtc;generated","0"
+"Le gusta esas libros","He likes those books","personXThisEtc;generated","0"
+"Ella necesita esta lápiz","She needs this pencil","personXThisEtc;generated","0"
+"Ella prefiere estas mochilas","She prefers these paperbacks","personXThisEtc;generated","0"
+"Tú vas a estas reglas","You are going to these ruler/rules","personXThisEtc;generated","0"
+"El tiene esa lápiz","He has to that pencil","personXThisEtc;generated","0"
+"Tú sabes esas computadoras","You know those computers","personXThisEtc;generated","0"
+"Yo quiero esas reglas","I want those ruler/rules","personXThisEtc;generated","0"
+"Ella puede esta papel","She can this paper","personXThisEtc;generated","0"
+"Yo voy a esas libros","I am going to those books","personXThisEtc;generated","0"
+"Tú vas a esas mesas","You are going to those tables","personXThisEtc;generated","0"

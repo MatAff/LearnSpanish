@@ -34,7 +34,7 @@ for(itemNr in itemNrs) {
 tail(content)
 
 # Write csv file
-write.csv(content,file="content.csv",row.names = FALSE)
+#write.csv(content,file="content.csv",row.names = FALSE)
 
 # Test update
 AddItem("a","a","test")
@@ -84,7 +84,7 @@ GenerateThisEtc <- function() {
   pos <- sample(c("close","far"),1)
   num <- sample(c("single","plural"),1)
   
-  objectNr <- SelectTag("object")
+  objectNr <- sample(SelectTag("object"),1)
   en <- GetItem(objectNr)
   sp <- GetAnswer(objectNr)
   gen <- GetGender(sp)
@@ -150,9 +150,19 @@ GeneratePersonXThisEtc <- function() {
   return(c(en,sp))
 }  
 
-GenerateThisEtc()
-GeneratePersonXThisEtc()
+for(i in 1:50) {
+  item <- GenerateThisEtc()
+  print(item)
+  AddItem(item[2],item[1],"thisEtc;generated")
+}
 
+for(i in 1:50) {
+  item <- GeneratePersonXThisEtc()
+  AddItem(item[2],item[1],"personXThisEtc;generated")
+}
+
+# Write csv file
+#write.csv(content,file="content.csv",row.names = FALSE)
 
 
 

@@ -38,9 +38,17 @@ shinyTool <- shinyApp(
       column(1,actionButton("doUpdate", "Update"))
     ),
     fluidRow(
+      column(5,textInput("TAG","","")),
+      column(1,actionButton("doDelete","delete"))
+    ),
+    hr(),
+    fluidRow(
       column(5,textInput("newEN", "", "")),
       column(5,textInput("newSP", "", "")),
       column(1, actionButton("addNew", "Add"))
+    ),
+    fluidRow(
+      column(5,textInput("newTag","",""))
     ),
     hr()
     ),
@@ -78,10 +86,12 @@ shinyTool <- shinyApp(
     
     # Add item
     observeEvent(input$addNew, {
-      content <- rbind(content,c(input$newSP, input$newEN, "sentences",0))
+      content <- rbind(content,c(input$newSP, input$newEN, input$newTag,0))
       assign("content", content, envir = .GlobalEnv)
       output$output <- renderText({ "Added!" })
-      
+      updateTextInput(session,"newSP",value="")
+      updateTextInput(session,"newEN",value="")
+      updateTextInput(session,"newTag",value="")
       # Write csv file
       write.csv(content,file="content.csv",row.names = FALSE)
     })
