@@ -439,7 +439,7 @@
 "Vosotros vivis","You (plural) live","ch03;toLive;verb;conj",NA
 "Ellos viven","They live","ch03;toLive;verb;conj",NA
 "Ellas viven","They live","ch03;toLive;verb;conj",NA
-"Ustedes viven","You (formal) live","ch03;toLive;verb;conj",NA
+"Ustedes viven","You (plural, formal) live","ch03;toLive;verb;conj",NA
 "Ir","To go","ch04;togo;verb;irregVerb",NA
 "Yo voy","I go","ch04;togo;verb;irregVerb",NA
 "Tú vas","You go","ch04;togo;verb;irregVerb",NA
@@ -450,7 +450,7 @@
 "Vosotros Vais","You (plural) go","ch04;togo;verb;irregVerb",NA
 "Ellos van","They go","ch04;togo;verb;irregVerb",NA
 "Ellas van","They go","ch04;togo;verb;irregVerb",NA
-"Ustedes van","You (formal) go","ch04;togo;verb;irregVerb",NA
+"Ustedes van","You (plural formal) go","ch04;togo;verb;irregVerb",NA
 "Poder","To be able","ch04;toBeAble;verb;irregVerb",NA
 "Yo pudeo","I am able","ch04;toBeAble;verb;irregVerb",NA
 "Tú puedes","You are able","ch04;toBeAble;verb;irregVerb",NA
@@ -514,7 +514,7 @@
 "","She is (plays sports)","",NA
 "","we are generous","",NA
 "","You are funny I am imptient","",NA
-"","I amd not organized","",NA
+"","I am not organized","",NA
 "","I am very lazy","",NA
 "","We are cautious","",NA
 "","They are social","",NA
@@ -658,17 +658,17 @@
 "Yo Cocino; Té Cocinas; El Cocina","I cook; You cook; He cooks","conj;generated","0"
 "Yo Dibujo; Té Dibujas; El Dibuja","I draw; You draw; He draws","conj;generated","0"
 "Yo Escribo; Té Escribes; El Escribe","I write; You write; He writes","conj;generated","0"
-"Yo Estudio; Té Estudias; El Estudia","I study; You study; He studys","conj;generated","0"
-"Yo Hablo; Té Hablas; El Habla","I talk; You talk; He talks","conj;generated","0"
+"Yo Estudio; Tu Estudias; El Estudia","I study; You study; He studies","conj;generated","0"
+"Yo Hablo; Tu Hablas; El Habla","I talk; You talk; He talks","conj;generated","0"
 "Yo Haco; Té Haces; El Hace","I do; You do; He dos","conj;generated","0"
-"Yo Leo; Té Lees; El Lee","I read; You read; He reads","conj;generated","0"
+"Yo Leo; Tu Lees; El Lee","I read; You read; He reads","conj;generated","0"
 "Yo Nado; Té Nadas; El Nada","I swim; You swim; He swims","conj;generated","0"
 "Yo Patino; Té Patinas; El Patina","I skate; You skate; He skates","conj;generated","0"
-"Yo Pinto; Té Pintas; El Pinta","I paint; You paint; He paints","conj;generated","0"
-"Siempre","","frequency","0"
-"Nunca","","frequency","0"
+"Yo Pinto; Tu Pintas; El Pinta","I paint; You paint; He paints","conj;generated","0"
+"Siempre","Always","frequency","0"
+"Nunca","Never","frequency","0"
 "Casi","Almost","frequency","0"
-"Aveces","","frequency","0"
+"Aveces","Sometimes","frequency","0"
 "Todos los días","Every day","frequency","0"
 "Todos las semanas","Every week","frequency","0"
 "Todos los años","Every year","frequency","0"
@@ -689,9 +689,9 @@
 "Esas semanas","Those weeks","thisEtc;generated","0"
 "Esa semana","That week","thisEtc;generated","0"
 "Estas calendarios","These calendars","thisEtc;generated","0"
-"Esta diccionario","This dictionary","thisEtc;generated","0"
+"Esto diccionario","This dictionary","thisEtc;generated","0"
 "Esas archivadors","Those cabinets","thisEtc;generated","0"
-"Esa día","That day","thisEtc;generated","0"
+"Ese día","That day","thisEtc;generated","0"
 "Esa calculadora","That calculator","thisEtc;generated","0"
 "Esta capeta","This folder","thisEtc;generated","0"
 "Esa bolígrafo","That pen","thisEtc;generated","0"
@@ -725,14 +725,14 @@
 "Esas agendas","Those planners","thisEtc;generated","0"
 "Estas cuadernos","These notebooks","thisEtc;generated","0"
 "Estas cuadernos","These notebooks","thisEtc;generated","0"
-"Esas libros","Those books","thisEtc;generated","0"
+"Esos libros","Those books","thisEtc;generated","0"
 "Esta día","This day","thisEtc;generated","0"
 "Estas días","These days","thisEtc;generated","0"
 "Esa horario","That schedule","thisEtc;generated","0"
 "Tú necesitas esta archivador","You need this cabinet","personXThisEtc;generated","0"
 "Yo sé esta libro","I know this book","personXThisEtc;generated","0"
 "El tiene estas mesas","He has to these tables","personXThisEtc;generated","0"
-"Tú tienes que esta escritorio","You have to this desk","personXThisEtc;generated","0"
+"Tú tienes que pintar esta escritorio","You have to paint this desk","personXThisEtc;generated","0"
 "El tiene esta escritorio","He has to this desk","personXThisEtc;generated","0"
 "Te gusta esa lápiz","You like that pencil","personXThisEtc;generated","0"
 "Ella necesita esa mochila","She needs that paperback","personXThisEtc;generated","0"
@@ -779,3 +779,153 @@
 "Ella puede esta papel","She can this paper","personXThisEtc;generated","0"
 "Yo voy a esas libros","I am going to those books","personXThisEtc;generated","0"
 "Tú vas a esas mesas","You are going to those tables","personXThisEtc;generated","0"
+"Estoy enfermo","I (m) am ill","ch04;toBeState",NA
+"Estoy enferma","I (female) am ill","ch04;toBeState",NA
+"Estoy cansado","I (masculin) am tired","ch04;toBeState",NA
+"Estoy cansada","I (female) am tired","ch04;toBeState",NA
+"Estas contento","You (masculin) are happy","ch04;toBeState",NA
+"Estas contenta","You (f) are happy","ch04;toBeState",NA
+"Esta deprimido","He is depressed","ch04;toBeState",NA
+"Esta deprimida","She is depressed","ch04;toBeState",NA
+"Estoy emocionado","I (m) am excited","ch04;toBeState",NA
+"Estoy emocionada","I (f) am excited","ch04;toBeState",NA
+"Esta frustrado","He is frustrated","ch04;toBeState",NA
+"Estas frustrada","You (f) are frustrated","ch04;toBeState",NA
+"Estoy harto","I (m) am fed up","ch04;toBeState",NA
+"Estoy harta","I (f) am fed up","ch04;toBeState",NA
+"Estas lista?","Are you (f) ready?","ch04;toBeState",NA
+"Estoy listo","I (m) am ready","ch04;toBeState",NA
+"Estoy nerviosa","I (f) am nervous","ch04;toBeState",NA
+"Estas nervioso?","Are you (m) nervous?","ch04;toBeState",NA
+"Estas ocupada?","Are you (f) busy?","ch04;toBeState",NA
+"Estoy ocupado","I (m) am busy","ch04;toBeState",NA
+"Estoy preocupado","I (m) am worried","ch04;toBeState",NA
+"Esta preocupada","She is worried","ch04;toBeState",NA
+"Estoy triste","I am sad","ch04;toBeState",NA
+"Alguilar","To rent","ch04;inf;verb;regVerb",NA
+"Rentar","To rent","ch04;inf;verb;regVerb",NA
+"Bailar","To dance","ch04;inf;verb;regVerb",NA
+"Cantar","To sing","ch04;inf;verb;regVerb",NA
+"Cocinar","To cook","ch04;inf;verb;regVerb",NA
+"Enseñar","To teach","ch04;inf;verb;regVerb",NA
+"Esquiar","To ski","ch04;inf;verb;regVerb",NA
+"Estudiar","To study","ch04;inf;verb;regVerb",NA
+"Fumar","To smoke","ch04;inf;verb;regVerb",NA
+"Hablar","To speak","ch04;inf;verb;regVerb",NA
+"Limpiar la casa","To clean the house","ch04;inf;verb;regVerb",NA
+"Manejar un carro","To drive a car","ch04;inf;verb;regVerb",NA
+"Mirar la tele","To watch tv","ch04;inf;verb;regVerb",NA
+"Montar en bicicleta","To ride a bicycle","ch04;inf;verb;regVerb",NA
+"Nadar","To swim","ch04;inf;verb;regVerb",NA
+"Necesitar","To need","ch04;inf;verb;regVerb",NA
+"Pintar","To paint","ch04;inf;verb;regVerb",NA
+"Platicar","To talk","ch04;inf;verb;regVerb",NA
+"Charlar","To chat","ch04;inf;verb;regVerb",NA
+"Preparar la cena","To prepare dinner","ch04;inf;verb;regVerb",NA
+"Tocar","To touch","ch04;inf;verb;regVerb",NA
+"Trabajar","To work","ch04;inf;verb;regVerb",NA
+"Usar la computadora","To use the computer","ch04;inf;verb;regVerb",NA
+"Viajar","To travel","ch04;inf;verb;regVerb",NA
+"Aprender","To learn","ch04;inf;verb;regVerb",NA
+"Abrir","To open","ch04;inf;verb;regVerb",NA
+"Comer","To eat","ch04;inf;verb;regVerb",NA
+"Correr","To run","ch04;inf;verb;regVerb",NA
+"Asistir a clase","To attend class","ch04;inf;verb;regVerb",NA
+"Beber","To drink","ch04;inf;verb;regVerb",NA
+"Escribir una carta","To write a letter","ch04;inf;verb;regVerb",NA
+"Leer un libro","To read a book","ch04;inf;verb;regVerb",NA
+"Vivir en la ciudad","To live in the city","ch04;inf;verb;regVerb",NA
+"Ir a una fiesta","To go to a party","ch04;inf;verb;irregVerb",NA
+"Ir de compras","To go shopping","ch04;inf;verb;irregVerb",NA
+"Jugar","To play (sports)","ch04;inf;verb;irregVerb",NA
+"Pensar","To think","ch04;inf;verb;irregVerb",NA
+"Poder","To be able","ch04;inf;verb;irregVerb",NA
+"Preferir","To prefer","ch04;inf;verb;irregVerb",NA
+"Querer","To want","ch04;inf;verb;irregVerb",NA
+"Saber","To know (information)","ch04;inf;verb;irregVerb",NA
+"Conocer","To know (how)","ch04;inf;verb;regVerb",NA
+"Tener","To have","ch04;inf;verb;regVerb",NA
+"Ver","To see/watch","ch04;inf;verb;regVerb",NA
+"El campo","The countryside","ch04;noun",NA
+"El centro comercial","The mall","ch04;noun",NA
+"El gimnasio","The gym","ch04;noun",NA
+"El parque","The park","ch04;noun",NA
+"El parque de diversiones","The amusement park","ch04;noun",NA
+"La piscian","The swimming pool","ch04;noun",NA
+"La alberca","The swimming pool","ch04;noun",NA
+"La playa","The beach","ch04;noun",NA
+"¿Adónde?","To where?","ch04;questions",NA
+"¿Adónde vas?","Where are you going?","ch04;questions",NA
+"Conmigo","With me","ch04;words",NA
+"Contigo","With you","ch04;words",NA
+"Con él","With him","ch04;words",NA
+"Con ellla","With her","ch04;words",NA
+"Con nosotros","With us (m)","ch04;words",NA
+"Con vosotros","You you (plural, familiar, m)","ch04;words",NA
+"Con ustedes","With you (plural, formal)","ch04;words",NA
+"Sin mí","Without me","ch04;words",NA
+"Sin ti","Without you","ch04;words",NA
+"Sin él","Without him","ch04;words",NA
+"Sin ella","Without her","ch04;words",NA
+"Sin nosotros","Without us","ch04;words",NA
+"Sin vosotros","Without you (plural, familiar)","ch04;words",NA
+"Sin ustedes","Withough you (plural, formal)","ch04;words",NA
+"El amigo","The friend (m)","ch04;words",NA
+"La amiga","The friend (f)","ch04;words",NA
+"Sol@","Alone","ch04;words",NA
+"Junt@s ","Together","ch04;words",NA
+"Tal vez","Perhaps","ch04;words",NA
+"Posiblemente","Possibly","ch04;words",NA
+"!Cómo no!","Of course!","ch04;words",NA
+"!Claro que no!","Of course not!","ch04;words",NA
+"De nada","You're welcome","ch04;words",NA
+"La estacíon","The season","ch04;words;seasons",NA
+"Las estaciones","The seasons","ch04;words;seasons;time",NA
+"La primavera","The spring","ch04;words;seasons;time",NA
+"El verano","The summer","ch04;words;seasons;time",NA
+"El otoño","The fall","ch04;words;seasons;time",NA
+"El invierno","The winter","ch04;words;seasons;time",NA
+"El fin de semana","On the weekend","ch04;words;time;frequency",NA
+"Los fines de semana","On the weekends","ch04;words;time;frequency",NA
+"Después de","After ..","ch04;words;time;frequency",NA
+"En/por la mañana","In the morning","ch04;words;time;frequency",NA
+"En/por la tarde","In the afternoon","ch04;words;time;frequency",NA
+"En/por la noche","At nights","ch04;words;time;frequency",NA
+"Generalmente","Generally","ch04;words;time;frequency",NA
+"Hoy no","Not today","ch04;words",NA
+"!No me digas!","You don't say!","ch04;words",NA
+"!Genial!","Awesome","ch04;words",NA
+"!Qué lástima","What a pity!","ch04;words",NA
+"!Qué pena!","What a shame/how sad!","ch04;words",NA
+"La voz","The voice","ch04;words",NA
+"Las voces","The voices","ch04;words",NA
+"Algo ","Something","ch04;words",NA
+"Nada","Nothing","ch04;words",NA
+"El pasatiempo","The pastime","ch04;words",NA
+"Porque","Because","ch04;words",NA
+"Para nader","In order to swim","ch04;words;frequency",NA
+"Después de correr","After running","ch04;words;frequency",NA
+"Antes de trabacho","Before work","ch04;words;frequency",NA
+"Sin cosinar","Without cooking","ch04;words;frequency",NA
+"Las comidas","The meals","ch05;words;food",NA
+"Beber","To drink","ch05;verb;inf;food",NA
+"Tomar","To drink","ch05;verb;inf;food",NA
+"Desayunar","To eat breakfast","ch05;verb;inf;food",NA
+"Almorzar (o>ue)","To eat lunch","ch05;verb;inf;food",NA
+"Cenar","To eat dinner","ch05;verb;inf;food",NA
+"La cena","The dinner","ch05;words;food",NA
+"La comida","The food","ch05;words;food",NA
+"La comida chatarra","The junk food","ch05;words;food",NA
+"El desayuno","Breakfast","ch05;words;food",NA
+"La merienda","Afternoon snack","ch05;words;food",NA
+"La botana","The snack","ch05;words;food",NA
+"El aperitivo","The appetizer","ch05;words;food",NA
+"Los refrigerios","The refreshments","ch05;words;food",NA
+"El enseña espagñol","He teaches spanish","ch04;sentences","0"
+"Yo necesito cantar para bailar","I need to sing in order to dance","ch04;sentences","0"
+"Yo necesito estudiar","I need to study","ch04;sentenes","0"
+"Estoy nervioso porque tengo que ir a la clase espagñol en el sabado","I am nervous, because we have to go to Spanish class on Saterday","ch04;sentences;longSentences","0"
+"Nosotros trabajamos juntos","We work together","ch04;sentences","0"
+"Quando viajo, voy a te escribir una carta","When I travel, I am going to write you a letter","ch04;sentences","0"
+"Yo voy a dormir poque, estoy cansado","I am going to sleep because I am tired","ch04;sentences","0"
+"Nosotros vamos a una fiesta sin vosotros","We are going to a party without you all","ch04;sentences","0"

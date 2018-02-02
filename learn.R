@@ -63,9 +63,11 @@ shinyTool <- shinyApp(
         enText <- GetItem(itemNr)
         updateTextInput(session,"EN",value=enText)
         updateTextInput(session,"SP",value="")
+        updateTextInput(session,"TAG",value="")
       } else {
         spText <- GetAnswer(itemNr)    
         updateTextInput(session,"SP",value=spText)
+        updateTextInput(session,"TAG",value=content[itemNr,3])
       }
       itemPhase <- !itemPhase
       assign("itemNr", itemNr, envir = .GlobalEnv)
@@ -82,6 +84,11 @@ shinyTool <- shinyApp(
       assign("content", content, envir = .GlobalEnv)
       # Write csv file
       write.csv(content,file="content.csv",row.names = FALSE)
+    })
+    
+    # Delete
+    observeEvent(input$doDelete, {
+      content[itemNr,3] <- paste(content[itemNr,3],"delete",sep=";")
     })
     
     # Add item
