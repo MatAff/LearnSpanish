@@ -64,6 +64,10 @@ shinyTool <- shinyApp(
         updateTextInput(session,"EN",value=enText)
         updateTextInput(session,"SP",value="")
         updateTextInput(session,"TAG",value="")
+        content[itemNr,4] <- content[itemNr,4] + 1
+        assign("content", content, envir=.GlobalEnv)
+        print("Increasing counter")
+        write.csv(content,file="content.csv",row.names = FALSE)
       } else {
         spText <- GetAnswer(itemNr)    
         updateTextInput(session,"SP",value=spText)
