@@ -169,7 +169,7 @@
 "(A mí) no me gusta","I don't like","ch02;like",0
 "No me gusta mucho","I don't like very much","ch02;like",0
 "No me gusta nada","I don't like at all","ch02;like",0
-"No me gusta tampoco","I don't like either/neither","ch02;like",0
+"No me gusta tampoco","I don't like either/neither","ch02;like",1
 "Sí","Yes","ch02;smallWords",0
 "No","No","ch02;smallWords",0
 "Quizá","Maybe","ch02;smallWords",0
@@ -183,7 +183,7 @@
 "También","Also","ch02;smallWords",0
 "Tampoco","Neither/Either","ch02;smallWords",0
 "¿Qué te gusta hacer?","What do you like to do?","ch02;sentences",0
-"¿Y a ti?","And you? (as object)","ch02;sentences",0
+"¿Y a ti?","And you? (as object)","ch02;sentences",1
 "¿Eres?","Are you?","ch02;sentences",0
 "¿Cómo eres?","What are you like?","ch02;sentences",0
 "Yo soy","I am (trait)","ch02;toBe",0
@@ -443,7 +443,7 @@
 "Ir","To go","ch04;togo;verb;irregVerb",0
 "Yo voy","I go","ch04;togo;verb;irregVerb",1
 "Tú vas","You go","ch04;togo;verb;irregVerb",0
-"El va","He goes","ch04;togo;verb;irregVerb",0
+"El va","He goes","ch04;togo;verb;irregVerb",1
 "Ella va","She goes","ch04;togo;verb;irregVerb",1
 "Usted va","You (formal) go","ch04;togo;verb;irregVerb",0
 "Nosotros vamos","We go","ch04;togo;verb;irregVerb",1
@@ -455,7 +455,7 @@
 "Yo pudeo","I am able","ch04;toBeAble;verb;irregVerb",0
 "Tú puedes","You are able","ch04;toBeAble;verb;irregVerb",0
 "El puede","He is able","ch04;toBeAble;verb;irregVerb",0
-"Ella puede","She is able","ch04;toBeAble;verb;irregVerb",0
+"Ella puede","She is able","ch04;toBeAble;verb;irregVerb",1
 "Usted puede","You (formal) are able","ch04;toBeAble;verb;irregVerb",0
 "Nosotros podemos","We are able","ch04;toBeAble;verb;irregVerb",0
 "Vosotros podéis","You (plural) are bable","ch04;toBeAble;verb;irregVerb",0
@@ -466,7 +466,7 @@
 "Yo quiero","I want","ch04;toWant;verb;irregVerb",0
 "Tú quieres","You want","ch04;toWant;verb;irregVerb",0
 "El quiere","He wants","ch04;toWant;verb;irregVerb",2
-"Ella quiere","She wants","ch04;toWant;verb;irregVerb",0
+"Ella quiere","She wants","ch04;toWant;verb;irregVerb",1
 "Usted quiere","You (formal) want","ch04;toWant;verb;irregVerb",1
 "Nosotros queremos","We want","ch04;toWant;verb;irregVerb",0
 "Vosotros queréis","You (plural) want","ch04;toWant;verb;irregVerb",1
@@ -777,7 +777,7 @@
 "Tú sabes esas computadoras","You know those computers","personXThisEtc;generated",0
 "Yo quiero esas reglas","I want those ruler/rules","personXThisEtc;generated",0
 "Ella puede esta papel","She can this paper","personXThisEtc;generated",0
-"Yo voy a esas libros","I am going to those books","personXThisEtc;generated",0
+"Yo voy a esos libros","I am going to those books","personXThisEtc;generated",1
 "Tú vas a esas mesas","You are going to those tables","personXThisEtc;generated",0
 "Estoy enfermo","I (m) am ill","ch04;toBeState",0
 "Estoy enferma","I (female) am ill","ch04;toBeState",0
@@ -831,33 +831,33 @@
 "Comer","To eat","ch04;inf;verb;regVerb",0
 "Correr","To run","ch04;inf;verb;regVerb",2
 "Asistir a clase","To attend class","ch04;inf;verb;regVerb",0
-"Beber","To drink","ch04;inf;verb;regVerb",0
+"Beber","To drink","ch04;inf;verb;regVerb",1
 "Escribir una carta","To write a letter","ch04;inf;verb;regVerb",1
 "Leer un libro","To read a book","ch04;inf;verb;regVerb",2
 "Vivir en la ciudad","To live in the city","ch04;inf;verb;regVerb",1
 "Ir a una fiesta","To go to a party","ch04;inf;verb;irregVerb",0
 "Ir de compras","To go shopping","ch04;inf;verb;irregVerb",0
 "Jugar","To play (sports)","ch04;inf;verb;irregVerb",3
-"Pensar","To think","ch04;inf;verb;irregVerb",3
+"Pensar","To think","ch04;inf;verb;irregVerb",4
 "Poder","To be able","ch04;inf;verb;irregVerb",1
 "Preferir","To prefer","ch04;inf;verb;irregVerb",0
 "Querer","To want","ch04;inf;verb;irregVerb",3
 "Saber","To know (information)","ch04;inf;verb;irregVerb",0
 "Conocer","To know (how)","ch04;inf;verb;regVerb",2
 "Tener","To have","ch04;inf;verb;regVerb",1
-"Ver","To see/watch","ch04;inf;verb;regVerb",0
+"Ver","To see/watch","ch04;inf;verb;regVerb",1
 "El campo","The countryside","ch04;noun",0
 "El centro comercial","The mall","ch04;noun",0
 "El gimnasio","The gym","ch04;noun",0
 "El parque","The park","ch04;noun",0
 "El parque de diversiones","The amusement park","ch04;noun",0
-"La piscian","The swimming pool","ch04;noun",0
+"La piscian","The swimming pool","ch04;noun",1
 "La alberca","The swimming pool","ch04;noun",0
 "La playa","The beach","ch04;noun",0
 "¿Adónde?","To where?","ch04;questions",1
-"¿Adónde vas?","Where are you going?","ch04;questions",1
+"¿Adónde vas?","Where are you going?","ch04;questions",2
 "Conmigo","With me","ch04;words",0
-"Contigo","With you","ch04;words",3
+"Contigo","With you","ch04;words",4
 "Con él","With him","ch04;words",2
 "Con ellla","With her","ch04;words",0
 "Con nosotros","With us (m)","ch04;words",1
@@ -922,7 +922,7 @@
 "El aperitivo","The appetizer","ch05;words;food",0
 "Los refrigerios","The refreshments","ch05;words;food",1
 "El enseña espagñol","He teaches spanish","ch04;sentences",0
-"Yo necesito cantar para bailar","I need to sing in order to dance","ch04;sentences",0
+"Yo necesito cantar para bailar","I need to sing in order to dance","ch04;sentences",1
 "Yo necesito estudiar","I need to study","ch04;sentenes",0
 "Estoy nervioso porque tengo que ir a la clase espagñol en el sabado","I am nervous, because we have to go to Spanish class on Saterday","ch04;sentences;longSentences",0
 "Nosotros trabajamos juntos","We work together","ch04;sentences",1
@@ -1056,7 +1056,7 @@
 "La hija","The daughter","ch06;family",0
 "Los nietos","The grand children","ch06;family",0
 "El nieto","The grandson","ch06;family",0
-"La nieta","The granddaughter","ch06;family",1
+"La nieta","The granddaughter","ch06;family",2
 "Los padres","The parents","ch06;family",0
 "El padre","The father","ch06;family",0
 "La madre","The mother","ch06;family",0
@@ -1122,88 +1122,88 @@
 "Nadie","No one","ch06",0
 "Solo","Only","ch06",0
 "Tod@s","Every/all/everyone","ch06",0
-"La blusa","The blouse","",NA
-"La bolsa","The bag","",NA
-"El calcetín","The sock","",NA
-"Los calcetines","The socks","",NA
-"La camisa","The shirt","",NA
-"La camiseta","The T-shirt","",NA
-"La chaquete/La chamarra","The jacket","",NA
-"La falda","The skirt","",NA
-"Los jeans","The jeans","",NA
-"Los pantalones (cortos)","The (short) pants","",NA
-"La ropa","Clothes","",NA
-"La sudadera","The sweatshirt","",NA
-"El suéter","The sweather","",NA
-"El traje","The suit","",NA
-"Los (zapatos de) tenis","The tennis shoes","",NA
-"El vestido","The dress","",NA
-"Los zapatos","The shoes","",NA
-"El color","The color","",NA
-"¿De qué color?","What color?","",NA
-"Amarill@","Yellow","",NA
-"Anaranjad@","Orange","",NA
-"Azul(es)","Blue","",NA
-"Blanc@","White","",NA
-"Gris(es)","Gray","",NA
-"Marrón(es)","Brown","",NA
-"Morad@","Purple","",NA
-"Negr@","Black","",NA
-"Roj@","Red","",NA
-"Rosad@","Pink","",NA
-"Verde","Green","",NA
-"Nuev@","New","",NA
-"El traje es gris","The suit is gray","",NA
-"Ese/esa/eso","That","",NA
-"Esos/esas","Those","",NA
-"Este/esta/esto","This","",NA
-"Estos/estas","These","",NA
-"Otro@","Other/another","",NA
-"El almacén","The warehouse","",NA
-"La tienda de descuentos","The discount store","",NA
-"La tienda de ropa","The clothing store","",NA
-"La zapatería","The shoe store","",NA
-"De compras","Out shopping","",NA
-"Buscar","To look for","",NA
-"Comprar","The buy","",NA
-"Contar(o > ue)","The count","",NA
-"Constar(o > ue)","To cost","",NA
-"Desear","To want/to desire","",NA
-"Encontrar (o > ue)","The find","",NA
-"Gratis/gratuit@","Free (no cost)","",NA
-"Llevar","To wear","",NA
-"Pagar","To pay","",NA
-"Para mí","For me","",NA
-"Para ti","For you","",NA
-"Para él/ella","For him/her","",NA
-"Por","For (in exchange for)","",NA
-"Venir","To come","",NA
-"Yo vengo","I come","",NA
-"Los precios","The prices","",NA
-"La ganga","The bargain","",NA
-"!Qué ganga!","What a bargain!","",NA
-"Barat@","Cheap/inexpensive","",NA
-"Car@","Expensive","",NA
-"El dependiente/la dependienta","The store clerk","",NA
-"El/la joven Los jóvenes","Youngster(s)","",NA
-"Perdone","Excuse me","",NA
-"Disculpe","Excuse me","",NA
-"Por aquí","This way","",NA
-"Por allí","That way","",NA
-"!Vaya! !Anda!","Wow!","",NA
-"A ver …","Let's see …","",NA
-"Hasta","Until","",NA
-"La mitad","The half","",NA
-"Un tercio","One third","",NA
-"Dos tercio","Two thirds","",NA
-"Un cuarto","A quarter","",NA
-"Tres cuartos","Three quarters","",NA
-"Una quinta parte","One fifth (1/5)","",NA
-"Dos quintas partes","Two fifths (2/5)","",NA
-"Mejor que","Better than","",NA
-"Peor que","Worse than","",NA
-"Tan adj como","As … as","",NA
-"Tanto sust. Como","As much … as","",NA
-"¿Qué te parece?","What do you think?","",NA
-"Me parece bien","It seems good to me","",NA
-"Igual","Same/equal","",NA
+"La blusa","The blouse","ch06",0
+"La bolsa","The bag","ch06",0
+"El calcetín","The sock","ch06",0
+"Los calcetines","The socks","ch06",0
+"La camisa","The shirt","ch06",0
+"La camiseta","The T-shirt","ch06",0
+"La chaquete/La chamarra","The jacket","ch06",0
+"La falda","The skirt","ch06",0
+"Los jeans","The jeans","ch06",0
+"Los pantalones (cortos)","The (short) pants","ch06",0
+"La ropa","Clothes","ch06",0
+"La sudadera","The sweatshirt","ch06",0
+"El suéter","The sweather","ch06",0
+"El traje","The suit","ch06",0
+"Los (zapatos de) tenis","The tennis shoes","ch06",0
+"El vestido","The dress","ch06",0
+"Los zapatos","The shoes","ch06",0
+"El color","The color","ch06",0
+"¿De qué color?","What color?","ch06",0
+"Amarill@","Yellow","ch06",0
+"Anaranjad@","Orange","ch06",0
+"Azul(es)","Blue","ch06",0
+"Blanc@","White","ch06",0
+"Gris(es)","Gray","ch06",0
+"Marrón(es)","Brown","ch06",0
+"Morad@","Purple","ch06",0
+"Negr@","Black","ch06",0
+"Roj@","Red","ch06",0
+"Rosad@","Pink","ch06",0
+"Verde","Green","ch06",0
+"Nuev@","New","ch06",0
+"El traje es gris","The suit is gray","ch06",0
+"Ese/esa/eso","That","ch06",0
+"Esos/esas","Those","ch06",0
+"Este/esta/esto","This","ch06",0
+"Estos/estas","These","ch06",0
+"Otro@","Other/another","ch06",0
+"El almacén","The warehouse","ch06",0
+"La tienda de descuentos","The discount store","ch06",0
+"La tienda de ropa","The clothing store","ch06",0
+"La zapatería","The shoe store","ch06",0
+"De compras","Out shopping","ch06",0
+"Buscar","To look for","ch06",0
+"Comprar","The buy","ch06",0
+"Contar(o > ue)","The count","ch06",0
+"Constar(o > ue)","To cost","ch06",0
+"Desear","To want/to desire","ch06",0
+"Encontrar (o > ue)","The find","ch06",0
+"Gratis/gratuit@","Free (no cost)","ch06",0
+"Llevar","To wear","ch06",0
+"Pagar","To pay","ch06",0
+"Para mí","For me","ch06",0
+"Para ti","For you","ch06",0
+"Para él/ella","For him/her","ch06",0
+"Por","For (in exchange for)","ch06",0
+"Venir","To come","ch06",0
+"Yo vengo","I come","ch06",0
+"Los precios","The prices","ch06",0
+"La ganga","The bargain","ch06",0
+"!Qué ganga!","What a bargain!","ch06",0
+"Barat@","Cheap/inexpensive","ch06",0
+"Car@","Expensive","ch06",0
+"El dependiente/la dependienta","The store clerk","ch06",0
+"El/la joven Los jóvenes","Youngster(s)","ch06",0
+"Perdone","Excuse me","ch06",0
+"Disculpe","Excuse me","ch06",0
+"Por aquí","This way","ch06",0
+"Por allí","That way","ch06",0
+"!Vaya! !Anda!","Wow!","ch06",0
+"A ver …","Let's see …","ch06",0
+"Hasta","Until","ch06",0
+"La mitad","The half","ch06",0
+"Un tercio","One third","ch06",0
+"Dos tercio","Two thirds","ch06",0
+"Un cuarto","A quarter","ch06",0
+"Tres cuartos","Three quarters","ch06",0
+"Una quinta parte","One fifth (1/5)","ch06",0
+"Dos quintas partes","Two fifths (2/5)","ch06",0
+"Mejor que","Better than","ch06",0
+"Peor que","Worse than","ch06",0
+"Tan adj como","As … as","ch06",0
+"Tanto sust. Como","As much … as","ch06",0
+"¿Qué te parece?","What do you think?","ch06",0
+"Me parece bien","It seems good to me","ch06",0
+"Igual","Same/equal","ch06",0

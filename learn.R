@@ -29,42 +29,41 @@ itemPhase <- TRUE
 shinyTool <- shinyApp(
   ui = fluidPage(
     fluidRow(
-      column(10,textInput("tags", "Tags", "")),
-      column(1 ,actionButton("doTag", "Go!"))
+      column(12,textInput("tags", "Required tags", ""))
     ),
     fluidRow(
-      column(5,textInput("EN","","")),
-      column(5,textInput("SP","","")),
-      column(1,actionButton("doUpdate", "Update"))
+      column(12,textInput("EN","EN",""))
     ),
     fluidRow(
-      column(5,textInput("TAG","","")),
-      column(1,actionButton("doDelete","delete"))
-    ),
-    hr(),
-    fluidRow(
-      column(5,textInput("newEN", "", "")),
-      column(5,textInput("newSP", "", "")),
-      column(1, actionButton("addNew", "Add"))
+      column(12,textInput("SP","SP",""))
     ),
     fluidRow(
-      column(5,textInput("newTag","",""))
+      column(12,textInput("TAG","Tags",""))
     ),
-    hr()
-    ),
+    fluidRow(
+      column(1,actionButton("doTag", "Go!")),
+      column(1,actionButton("doUpdate", "Update")),
+      column(1,actionButton("doDelete","Delete")),
+      column(1,actionButton("doClear", "Clear")),
+      column(1,actionButton("doAdd", "Add"))
+    )  
+  ),
   server = function(input, output, session) { 
     
-    # Request or check item
+    # Go - Request or check item
     observeEvent(input$doTag, {
       print(itemPhase)
       if(itemPhase) {
         reqTags <- as.list(unlist(strsplit(input$tags, ";")))
         itemNr <- PickItem(reqTags)
         enText <- GetItem(itemNr)
+        
         updateTextInput(session,"EN",value=enText)
         updateTextInput(session,"SP",value="")
         updateTextInput(session,"TAG",value="")
+        print(enText)
         content[itemNr,4] <- content[itemNr,4] + 1
+        print(enText)
         assign("content", content, envir=.GlobalEnv)
         print("Increasing counter")
         write.csv(content,file="content.csv",row.names = FALSE)
@@ -82,8 +81,10 @@ shinyTool <- shinyApp(
     observeEvent(input$doUpdate, {
       updateEN <- input$EN
       updateSP <- input$SP
+      updateTAG <- input$TAG
       if(updateEN!="") { content$EN[itemNr] <- updateEN }
       if(updateSP!="") { content$SP[itemNr] <- updateSP }
+      if(updateTAG!="") { content$Tag[itemNr] <- updateTAG }
       print(content$SP[itemNr])
       assign("content", content, envir = .GlobalEnv)
       # Write csv file
@@ -95,14 +96,21 @@ shinyTool <- shinyApp(
       content[itemNr,3] <- paste(content[itemNr,3],"delete",sep=";")
     })
     
+    # Clear
+    observeEvent(input$doClear, {
+      updateTextInput(session,"SP",value="")
+      updateTextInput(session,"EN",value="")
+      updateTextInput(session,"TAG",value="")
+    })
+    
     # Add item
-    observeEvent(input$addNew, {
-      content <- rbind(content,c(input$newSP, input$newEN, input$newTag,0))
+    observeEvent(input$doAdd, {
+      content <- rbind(content,c(input$SP, input$EN, input$TAG,0))
       assign("content", content, envir = .GlobalEnv)
       output$output <- renderText({ "Added!" })
-      updateTextInput(session,"newSP",value="")
-      updateTextInput(session,"newEN",value="")
-      updateTextInput(session,"newTag",value="")
+      updateTextInput(session,"SP",value="")
+      updateTextInput(session,"EN",value="")
+      updateTextInput(session,"TAG",value="")
       # Write csv file
       write.csv(content,file="content.csv",row.names = FALSE)
     })
