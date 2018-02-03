@@ -7,7 +7,7 @@ source("sourceLearn.R")
 
 # Load data
 content <- read.csv("content.csv", stringsAsFactors=FALSE)
-nrRows <- nrow(content)
+content$Count <- as.numeric(content$Count)
 
 ################
 ### TERMINAL ###
@@ -29,16 +29,16 @@ itemPhase <- TRUE
 shinyTool <- shinyApp(
   ui = fluidPage(
     fluidRow(
-      column(12,textInput("tags", "Required tags", ""))
+      column(12,textInput("tags", "Required tags", "",width='100%'))
     ),
     fluidRow(
-      column(12,textInput("EN","EN",""))
+      column(12,textInput("EN","EN","",width='100%'))
     ),
     fluidRow(
-      column(12,textInput("SP","SP",""))
+      column(12,textInput("SP","SP","",width='100%'))
     ),
     fluidRow(
-      column(12,textInput("TAG","Tags",""))
+      column(12,textInput("TAG","Tags","",width='100%'))
     ),
     fluidRow(
       column(1,actionButton("doTag", "Go!")),
@@ -106,6 +106,7 @@ shinyTool <- shinyApp(
     # Add item
     observeEvent(input$doAdd, {
       content <- rbind(content,c(input$SP, input$EN, input$TAG,0))
+      content$Count <- as.numeric(content$Count)
       assign("content", content, envir = .GlobalEnv)
       output$output <- renderText({ "Added!" })
       updateTextInput(session,"SP",value="")

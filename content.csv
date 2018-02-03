@@ -62,7 +62,7 @@
 "Noviembre","November","ch01;dates",0
 "Diciembre","December","ch01;dates",0
 "Cero","Zero","ch01;numbers",0
-"Uno","One","ch01;numbers",0
+"Uno","One","ch01;numbers",1
 "Dos","Two","ch01;numbers",0
 "Tres","Three","ch01;numbers",0
 "Cuatro","Foud","ch01;numbers",0
@@ -118,8 +118,8 @@
 "Hoy","Today","ch01",0
 "La fecha","The date","ch01;object",0
 "Hoy es lunes","Today is Monday","ch01;sentences",0
-"Hoy es martes","Today is Tuesday","ch01;sentences",0
-"Hoy es miércoles","Today is Wednesday","ch01;sentences",0
+"Hoy es martes","Today is Tuesday","ch01;sentences",1
+"Hoy es miércoles","Today is Wednesday","ch01;sentences",1
 "Hoy es jueves","Today is Thursday","ch01;sentences",0
 "Hoy es viernes","Today is Friday","ch01;sentences",0
 "Hoy es sábado","Today is Saturday","ch01;sentences",0
@@ -141,8 +141,8 @@
 "Pintar","To paint","ch02;activities;verb;inf;regverb",0
 "Practica deportes","To play sports","ch02;activities;verb;inf",0
 "Trabajar","To work","ch02;activities;verb;inf",0
-"Tocar la guitarra","To play the guitar","ch02;activities;verb;inf",0
-"Ver la televisión","To watch TV","ch02;activities;verb;inf",0
+"Tocar la guitarra","To play the guitar","ch02;activities;verb;inf",1
+"Ver la televisión","To watch TV","ch02;activities;verb;inf",1
 "Amable","Kind","ch02;personalityTraits",0
 "Artístic@","Artistic","ch02;personalityTraits",0
 "Atrevid@","Daring","ch02;personalityTraits",0
@@ -247,15 +247,15 @@
 "El englés","English","ch03;school",0
 "Las matemáticas","Math","ch03;school",0
 "La música","Music","ch03;school",0
-"Dificil","Difficult","ch03;school",0
+"Dificil","Difficult","ch03;school",1
 "Fácil","Easy","ch03;school",0
-"Enseñar","To teach","ch03;school;regVerb",0
+"Enseñar","To teach","ch03;school;regVerb",1
 "La tarea","Homework","ch03;school",0
 "La hora","Time (the hour)","ch03;time",1
 "Empezar","To start","ch03;time;regVerb",0
 "Empieza","It starts","ch03;time",0
 "Terminar","To end","ch03;time;regVerb",0
-"Termina","It ends","ch03;time",0
+"Termina","It ends","ch03;time",1
 "¿A qué hora?","At what time?","ch03;time",0
 "¿A qué hora empieza?","At what time does it start?","ch03;time",0
 "¿A qué hora termina?","At what time does it finish?","ch03;time",0
@@ -272,7 +272,7 @@
 "Son las dos","It's two","ch03;time",0
 "Cuarto","Quarter (15 mins)","ch03;time",0
 "Media","Half hour (30 mins)","ch03;time",0
-"De la mañana","In the morning","ch03;time",0
+"De la mañana","In the morning","ch03;time",1
 "De la tarde","In the afternoon","ch03;time",1
 "De la noche","In the evening","ch03;time",0
 "Son las once y media de la noche","It's 11:30 in the evening","ch03;time",0
@@ -282,23 +282,23 @@
 "El archivador","The filing cabinet","ch03;things;officeSupplies;object",0
 "La calculadora","The calculator","ch03;things;officeSupplies;object",0
 "El calendario","The calendar","ch03;things;officeSupplies;object",0
-"La capeta","The file folder","ch03;things;officeSupplies;object",0
+"La capeta","The file folder","ch03;things;officeSupplies;object",1
 "La computadora","The computer","ch03;things;officeSupplies;object",0
 "El cuaderno","The notebook","ch03;things;officeSupplies;object",0
 "El diccionario","The dictionary","ch03;things;officeSupplies;object",0
 "El escritorio","The desk","ch03;things;officeSupplies;object",0
-"El horario","The schedule","ch03;things;officeSupplies;object",0
+"El horario","The schedule","ch03;things;officeSupplies;object",1
 "El lápiz","The pencil","ch03;things;officeSupplies;object",0
 "Los lápices","The pencils","ch03;things;officeSupplies",0
-"El libro","The book","ch03;things;officeSupplies;object",0
+"El libro","The book","ch03;things;officeSupplies;object",1
 "El marcador","The marker","ch03;things;officeSupplies;object",0
 "La mochila","The paperback","ch03;things;officeSupplies;object",0
 "El papel","The paper","ch03;things;officeSupplies;object",0
 "La pluma","The pen","ch03;things;officeSupplies;object",0
 "El bolígrafo","The pen","ch03;things;officeSupplies;object",0
 "La regla","The ruler/rule","ch03;things;officeSupplies;object",0
-"La cita","The appointment","ch03;work",0
-"La escuela","The school","ch03;school;object",0
+"La cita","The appointment","ch03;work",1
+"La escuela","The school","ch03;school;object",1
 "La reunión","The meeting","ch03;work",0
 "El trabjo","Work","ch03;work",0
 "El/La colega","The colleague","ch03;persons;work",0
@@ -310,7 +310,7 @@
 "El jefe/La jefa","The boss","ch03;persons;work",0
 "El/La maestro","The teacher","ch03;persons;work;school",0
 "El mentor/La mentora","The mentor","ch03;persons;work;school",0
-"El tutor/La turota","The tutor","ch03;persons;work;school",0
+"El tutor/La turota","The tutor","ch03;persons;work;school",1
 "Importante","Important","ch03;Adjective",0
 "Nos encantan los coches","The cars delight us","ch02;sentences",1
 "No me gusta tampoco el presidente","I don't like the president either","ch02;sentences",0
@@ -320,7 +320,7 @@
 "Nos gusta la casa","We like the house","ch02;sentences",0
 "Me gusta nadar","I like to swim","ch02;sentences",0
 "Nos gustan los casas","We like the houses","ch02;sentences",0
-"Me gusta empezar la clase","I like to start the calss","ch03;sentences",1
+"Me gusta empezar la clase","I like to start the calss","ch03;sentences",2
 "Le gusta ensenar","He likes to teach","ch03;sentences",0
 "Yo estoy en la habitacion","I am in the room","ch02;sentences",0
 "Les gustan las clases","They like the classes","ch02;sentences",0
@@ -328,7 +328,7 @@
 "A ella no le gusta nacar","She doesn't like to swim","ch02;sentences",0
 "A el le encanta la musica","The music delights him","ch02;sentences",0
 "Son las nuave y cuatro","It's 9:15","ch02;sentences",0
-"La regla esta en la mesa","The ruler is on the table","ch03;sentences",0
+"La regla esta en la mesa","The ruler is on the table","ch03;sentences",1
 "nos gusta ver la televicion","We like to watch television","ch02;sentences",0
 "Me encantan ver la televicion","Watching tv delights me","ch02;sentences",0
 "La clase termina a las dos","The class ends at two","ch02;sentences",0
@@ -339,7 +339,7 @@
 "No me gusta mucho nadar","I don't like to swim very much","ch02;sentences",0
 "Nosotros son ordenados","We are organized","ch02;sentences",0
 "Les gustan los gatos","They like the cats","ch02;sentences",0
-"A mi tampoco me gusta escribar","I don't like to write either","ch02;sentences",0
+"A mi tampoco me gusta escribar","I don't like to write either","ch02;sentences",1
 "El es serio","He is serious","ch02;sentences",0
 "Me gusta pintar la casa","I like to paint the house","ch02;sentences",0
 "Os gusta mi pelo","You (all) like my hair","ch02;sentences",0
@@ -359,13 +359,13 @@
 "El lapiz es en el escritorio","The pencil is on the table","ch03;sentences",0
 "Ella esta sentada","She is seated","ch02;sentences",0
 "Es el veintinueve de enero","It is January 29th","ch02;sentences",0
-"Yo tengo","I have","ch03;toHave",0
+"Yo tengo","I have","ch03;toHave",1
 "Tú tienes","You have","ch03;toHave",0
 "Mi","My","ch03;Possesion",0
 "Tu","Your (singular)","ch03;Possesion",0
 "Su","His/hers/Your (formal)","ch03;Possesion",0
-"Nuestr@","Our","ch03;Possesion",0
-"Vuestr@","Your (plural)","ch03;Possesion",0
+"Nuestr@","Our","ch03;Possesion",1
+"Vuestr@","Your (plural)","ch03;Possesion",1
 "Su","Their","ch03;Possesion",0
 "Mi jefe","My boss","ch03;Possesion;work ",0
 "Tu jefe","Your boss","ch03;Possesion;work ",0
@@ -376,12 +376,12 @@
 "¿cuál es su nombre?","What is his/her name?","ch03;sentences",0
 "¿Cómo se llame tu jefa?","What is your boss's name?","ch03",0
 "¿Cuál es el nombre de tu jefa?","What is the name of your boss (female)","ch03",0
-"El apodo","The nickname","ch03",0
+"El apodo","The nickname","ch03",1
 "El sobrenombre","The nickname","ch03",0
 "El mote","The nickname","ch03",0
 "Para","For","ch03",0
 "Tengo un lápiz para la clase","I have a pencil for the class","ch03;sentences",0
-"¿Tienes tu computadora para la reunión?","Do you have your computer for the meeting?","ch03;sentences",0
+"¿Tienes tu computadora para la reunión?","Do you have your computer for the meeting?","ch03;sentences",1
 "Necesitar","To need","ch03;regVerb",0
 "Yo necesito","I need","ch03",0
 "Tú necesitas","You need","ch03",0
@@ -391,7 +391,7 @@
 "Much@s","A lot of/many","ch03",0
 "Poc@","A little","ch03",0
 "Poc@s","A few","ch03",0
-"¿Tienes mucha tarea?","Do you have a lot of homework?","ch03;sentences",0
+"¿Tienes mucha tarea?","Do you have a lot of homework?","ch03;sentences",1
 "¿Tienes muchas plumas?","Do you have a lot of pens?","ch03;sentences",0
 "Tengo poca tarea","I have a little homework","ch03;sentences",0
 "Tengo una pluma","I have one pen","ch03;sentences",0
@@ -399,7 +399,7 @@
 "Lo siento mucho","I'm very sorry","ch03",0
 "Aquí","Here","ch03",0
 "Aquí está","Here it is","ch03",0
-"Allí","There","ch03",0
+"Allí","There","ch03",1
 "Allí está","There it is","ch03",0
 "Favorit@","Favorite","ch03",0
 "Más","More/most","ch03",0
@@ -409,13 +409,13 @@
 "A","To (direction)","ch03",1
 "A la escuela","To the school","ch03",0
 "De lunes a viernes","From Monday to Friday","ch03;days",1
-"Yo hablo","I speak","ch03;toSpeak;verb;conj",0
+"Yo hablo","I speak","ch03;toSpeak;verb;conj",1
 "Tú hablas","You speak","ch03;toSpeak;verb;conj",0
 "El habla","He speaks","ch03;toSpeak;verb;conj",0
 "Ella habla","She speaks","ch03;toSpeak;verb;conj",0
 "Usted habla","You (formal) speak","ch03;toSpeak;verb;conj",0
-"Nosotros hablamos","We speak","ch03;toSpeak;verb;conj",0
-"Vosotros habláis","You (plural) speak","ch03;toSpeak;verb;conj",0
+"Nosotros hablamos","We speak","ch03;toSpeak;verb;conj",1
+"Vosotros habláis","You (plural) speak","ch03;toSpeak;verb;conj",1
 "Ellos hablan","They speak","ch03;toSpeak;verb;conj",0
 "Ellas hablan","They speak","ch03;toSpeak;verb;conj",0
 "Ustedes hablan","You (formal) speak","ch03;toSpeak;verb;conj",0
@@ -430,12 +430,12 @@
 "Ellas comen","They eat","ch03;toEat;verb;conj",0
 "Ustedes comen","You (formal) eat","ch03;toEat;verb;conj",0
 "Vivir","To live","ch03;toLive;verb;conj;regVerb",0
-"Yo vivo","I live","ch03;toLive;verb;conj",0
+"Yo vivo","I live","ch03;toLive;verb;conj",1
 "Tú vives","You live","ch03;toLive;verb;conj",1
 "El vive","He lives","ch03;toLive;verb;conj",0
 "Ella vive","She lives","ch03;toLive;verb;conj",0
 "Usted vive","You (formal) live","ch03;toLive;verb;conj",0
-"Nosotros vivimos","We live","ch03;toLive;verb;conj",0
+"Nosotros vivimos","We live","ch03;toLive;verb;conj",1
 "Vosotros vivis","You (plural) live","ch03;toLive;verb;conj",0
 "Ellos viven","They live","ch03;toLive;verb;conj",0
 "Ellas viven","They live","ch03;toLive;verb;conj",0
@@ -443,36 +443,36 @@
 "Ir","To go","ch04;togo;verb;irregVerb",0
 "Yo voy","I go","ch04;togo;verb;irregVerb",1
 "Tú vas","You go","ch04;togo;verb;irregVerb",0
-"El va","He goes","ch04;togo;verb;irregVerb",1
+"El va","He goes","ch04;togo;verb;irregVerb",2
 "Ella va","She goes","ch04;togo;verb;irregVerb",1
-"Usted va","You (formal) go","ch04;togo;verb;irregVerb",0
-"Nosotros vamos","We go","ch04;togo;verb;irregVerb",1
+"Usted va","You (formal) go","ch04;togo;verb;irregVerb",2
+"Nosotros vamos","We go","ch04;togo;verb;irregVerb",2
 "Vosotros Vais","You (plural) go","ch04;togo;verb;irregVerb",0
-"Ellos van","They go","ch04;togo;verb;irregVerb",0
+"Ellos van","They go","ch04;togo;verb;irregVerb",1
 "Ellas van","They go","ch04;togo;verb;irregVerb",0
 "Ustedes van","You (plural formal) go","ch04;togo;verb;irregVerb",0
-"Poder","To be able","ch04;toBeAble;verb;irregVerb",0
+"Poder","To be able","ch04;toBeAble;verb;irregVerb",1
 "Yo pudeo","I am able","ch04;toBeAble;verb;irregVerb",0
-"Tú puedes","You are able","ch04;toBeAble;verb;irregVerb",0
-"El puede","He is able","ch04;toBeAble;verb;irregVerb",0
-"Ella puede","She is able","ch04;toBeAble;verb;irregVerb",1
+"Tú puedes","You are able","ch04;toBeAble;verb;irregVerb",2
+"El puede","He is able","ch04;toBeAble;verb;irregVerb",1
+"Ella puede","She is able","ch04;toBeAble;verb;irregVerb",2
 "Usted puede","You (formal) are able","ch04;toBeAble;verb;irregVerb",0
 "Nosotros podemos","We are able","ch04;toBeAble;verb;irregVerb",0
-"Vosotros podéis","You (plural) are bable","ch04;toBeAble;verb;irregVerb",0
+"Vosotros podéis","You (plural) are able","ch04;toBeAble;verb;irregVerb",1
 "Ellos pueden","They (masculin) are able","ch04;toBeAble;verb;irregVerb",0
 "Ellas pueden","They (feminine) are able","ch04;toBeAble;verb;irregVerb",1
 "Ustedes pueden","You (plural,formal) are able","ch04;toBeAble;verb;irregVerb",0
-"Querer","To want","ch04;toWant;verb;irregVerb",1
+"Querer","To want","ch04;toWant;verb;irregVerb",2
 "Yo quiero","I want","ch04;toWant;verb;irregVerb",0
 "Tú quieres","You want","ch04;toWant;verb;irregVerb",0
-"El quiere","He wants","ch04;toWant;verb;irregVerb",2
-"Ella quiere","She wants","ch04;toWant;verb;irregVerb",1
-"Usted quiere","You (formal) want","ch04;toWant;verb;irregVerb",1
-"Nosotros queremos","We want","ch04;toWant;verb;irregVerb",0
-"Vosotros queréis","You (plural) want","ch04;toWant;verb;irregVerb",1
-"Ellos quieren","They (masculin) want","ch04;toWant;verb;irregVerb",0
-"Ellas quieren","They (feminine) want","ch04;toWant;verb;irregVerb",0
-"Ustedes quieren","You (plural,formal) want","ch04;toWant;verb;irregVerb",0
+"El quiere","He wants","ch04;toWant;verb;irregVerb",4
+"Ella quiere","She wants","ch04;toWant;verb;irregVerb",4
+"Usted quiere","You (formal) want","ch04;toWant;verb;irregVerb",4
+"Nosotros queremos","We want","ch04;toWant;verb;irregVerb",2
+"Vosotros queréis","You (plural) want","ch04;toWant;verb;irregVerb",3
+"Ellos quieren","They (masculin) want","ch04;toWant;verb;irregVerb",1
+"Ellas quieren","They (feminine) want","ch04;toWant;verb;irregVerb",2
+"Ustedes quieren","You (plural,formal) want","ch04;toWant;verb;irregVerb",1
 "Yo escucho musica","I listen to music","ch03;sentences",0
 "¿Te gusta trabajar?","Do you like to work?","ch03;sentences",0
 "Nosotros llegamos tarde por la cita","We arrived late for the appointment","ch03;sentences",0
@@ -482,11 +482,11 @@
 "Nosotros estamos tarde para la cita","We are late for the appointment","ch03;sentences",0
 "Yo puedo mirar a gatos","I can look at cats","ch03;sentences",0
 "No tú ni puedes mirar a gatos","No you can not look at cats","ch03;sentences",0
-"Aqui esta la estudianta con la computadora","Here is the student with the computer","ch03;sentences",0
+"Aqui esta la estudianta con la computadora","Here is the student (f) with the computer","ch03;sentences",1
 "Quiza Yo hablo espanol","Maybe I speak spanish. ","ch03;sentences",0
 "Te gusta cerveza?","Do you like beer?","ch03;sentences",0
 "Son los dos en viernes","It's 2 on a Friday. ","ch03;sentences",0
-"Yo tengo diecinueve anos hoy!","I am 19 today! ","ch03;sentences",0
+"Yo tengo diecinueve anos hoy!","I am 19 today! ","ch03;sentences",1
 "El habla de gatos","He talks about cats","ch03;sentences",0
 "El esta contento","He is happy","ch03;sentences",0
 "Ellos quieren fiesta","They want to party","ch03;sentences",0
@@ -704,9 +704,9 @@
 "Esa marcador","That marker","thisEtc;generated",0
 "Esas agendas","Those planners","thisEtc;generated",0
 "Esa agenda","That planner","thisEtc;generated",0
-"Estas capetas","These folders","thisEtc;generated",0
+"Estas capetas","These folders","thisEtc;generated",1
 "Estas reglas","These ruler/rules","thisEtc;generated",0
-"Esas cuadernos","Those notebooks","thisEtc;generated",0
+"Esas cuadernos","Those notebooks","thisEtc;generated",1
 "Esas semanas","Those weeks","thisEtc;generated",0
 "Esa mochila","That paperback","thisEtc;generated",0
 "Esa pluma","That pen","thisEtc;generated",0
@@ -780,30 +780,30 @@
 "Yo voy a esos libros","I am going to those books","personXThisEtc;generated",1
 "Tú vas a esas mesas","You are going to those tables","personXThisEtc;generated",0
 "Estoy enfermo","I (m) am ill","ch04;toBeState",0
-"Estoy enferma","I (female) am ill","ch04;toBeState",0
-"Estoy cansado","I (masculin) am tired","ch04;toBeState",2
+"Estoy enferma","I (female) am ill","ch04;toBeState",2
+"Estoy cansado","I (masculin) am tired","ch04;toBeState",3
 "Estoy cansada","I (female) am tired","ch04;toBeState",0
-"Estas contento","You (masculin) are happy","ch04;toBeState",1
-"Estas contenta","You (f) are happy","ch04;toBeState",0
+"Estas contento","You (masculin) are happy","ch04;toBeState",2
+"Estas contenta","You (f) are happy","ch04;toBeState",1
 "Esta deprimido","He is depressed","ch04;toBeState",0
 "Esta deprimida","She is depressed","ch04;toBeState",0
-"Estoy emocionado","I (m) am excited","ch04;toBeState",1
-"Estoy emocionada","I (f) am excited","ch04;toBeState",2
-"Esta frustrado","He is frustrated","ch04;toBeState",0
+"Estoy emocionado","I (m) am excited","ch04;toBeState",2
+"Estoy emocionada","I (f) am excited","ch04;toBeState",4
+"Esta frustrado","He is frustrated","ch04;toBeState",1
 "Estas frustrada","You (f) are frustrated","ch04;toBeState",1
-"Estoy harto","I (m) am fed up","ch04;toBeState",1
+"Estoy harto","I (m) am fed up","ch04;toBeState",2
 "Estoy harta","I (f) am fed up","ch04;toBeState",0
-"Estas lista?","Are you (f) ready?","ch04;toBeState",0
+"Estas lista?","Are you (f) ready?","ch04;toBeState",1
 "Estoy listo","I (m) am ready","ch04;toBeState",1
 "Estoy nerviosa","I (f) am nervous","ch04;toBeState",0
 "Estas nervioso?","Are you (m) nervous?","ch04;toBeState",0
 "Estas ocupada?","Are you (f) busy?","ch04;toBeState",1
 "Estoy ocupado","I (m) am busy","ch04;toBeState",0
-"Estoy preocupado","I (m) am worried","ch04;toBeState",3
+"Estoy preocupado","I (m) am worried","ch04;toBeState",4
 "Esta preocupada","She is worried","ch04;toBeState",1
-"Estoy triste","I am sad","ch04;toBeState",0
+"Estoy triste","I am sad","ch04;toBeState",1
 "Alguilar","To rent","ch04;inf;verb;regVerb",0
-"Rentar","To rent","ch04;inf;verb;regVerb",0
+"Rentar","To rent","ch04;inf;verb;regVerb",2
 "Bailar","To dance","ch04;inf;verb;regVerb",0
 "Cantar","To sing","ch04;inf;verb;regVerb",0
 "Cocinar","To cook","ch04;inf;verb;regVerb",0
@@ -811,66 +811,66 @@
 "Esquiar","To ski","ch04;inf;verb;regVerb",0
 "Estudiar","To study","ch04;inf;verb;regVerb",0
 "Fumar","To smoke","ch04;inf;verb;regVerb",0
-"Hablar","To speak","ch04;inf;verb;regVerb",1
-"Limpiar la casa","To clean the house","ch04;inf;verb;regVerb",0
+"Hablar","To speak","ch04;inf;verb;regVerb",2
+"Limpiar la casa","To clean the house","ch04;inf;verb;regVerb",2
 "Manejar un carro","To drive a car","ch04;inf;verb;regVerb",1
-"Mirar la tele","To watch tv","ch04;inf;verb;regVerb",0
-"Montar en bicicleta","To ride a bicycle","ch04;inf;verb;regVerb",1
+"Mirar la tele","To watch tv","ch04;inf;verb;regVerb",1
+"Montar en bicicleta","To ride a bicycle","ch04;inf;verb;regVerb",2
 "Nadar","To swim","ch04;inf;verb;regVerb",0
 "Necesitar","To need","ch04;inf;verb;regVerb",1
-"Pintar","To paint","ch04;inf;verb;regVerb",0
+"Pintar","To paint","ch04;inf;verb;regVerb",2
 "Platicar","To talk","ch04;inf;verb;regVerb",0
 "Charlar","To chat","ch04;inf;verb;regVerb",0
-"Preparar la cena","To prepare dinner","ch04;inf;verb;regVerb",0
+"Preparar la cena","To prepare dinner","ch04;inf;verb;regVerb",1
 "Tocar","To touch","ch04;inf;verb;regVerb",0
-"Trabajar","To work","ch04;inf;verb;regVerb",1
+"Trabajar","To work","ch04;inf;verb;regVerb",3
 "Usar la computadora","To use the computer","ch04;inf;verb;regVerb",1
-"Viajar","To travel","ch04;inf;verb;regVerb",0
-"Aprender","To learn","ch04;inf;verb;regVerb",0
-"Abrir","To open","ch04;inf;verb;regVerb",0
+"Viajar","To travel","ch04;inf;verb;regVerb",2
+"Aprender","To learn","ch04;inf;verb;regVerb",1
+"Abrir","To open","ch04;inf;verb;regVerb",2
 "Comer","To eat","ch04;inf;verb;regVerb",0
 "Correr","To run","ch04;inf;verb;regVerb",2
 "Asistir a clase","To attend class","ch04;inf;verb;regVerb",0
 "Beber","To drink","ch04;inf;verb;regVerb",1
 "Escribir una carta","To write a letter","ch04;inf;verb;regVerb",1
 "Leer un libro","To read a book","ch04;inf;verb;regVerb",2
-"Vivir en la ciudad","To live in the city","ch04;inf;verb;regVerb",1
+"Vivir en la ciudad","To live in the city","ch04;inf;verb;regVerb",3
 "Ir a una fiesta","To go to a party","ch04;inf;verb;irregVerb",0
 "Ir de compras","To go shopping","ch04;inf;verb;irregVerb",0
-"Jugar","To play (sports)","ch04;inf;verb;irregVerb",3
-"Pensar","To think","ch04;inf;verb;irregVerb",4
-"Poder","To be able","ch04;inf;verb;irregVerb",1
-"Preferir","To prefer","ch04;inf;verb;irregVerb",0
-"Querer","To want","ch04;inf;verb;irregVerb",3
-"Saber","To know (information)","ch04;inf;verb;irregVerb",0
-"Conocer","To know (how)","ch04;inf;verb;regVerb",2
+"Jugar","To play (sports)","ch04;inf;verb;irregVerb",4
+"Pensar","To think","ch04;inf;verb;irregVerb",5
+"Poder","To be able","ch04;inf;verb;irregVerb",2
+"Preferir","To prefer","ch04;inf;verb;irregVerb",1
+"Querer","To want","ch04;inf;verb;irregVerb",4
+"Saber","To know (information)","ch04;inf;verb;irregVerb",2
+"Conocer","To know (how)","ch04;inf;verb;regVerb",4
 "Tener","To have","ch04;inf;verb;regVerb",1
 "Ver","To see/watch","ch04;inf;verb;regVerb",1
-"El campo","The countryside","ch04;noun",0
-"El centro comercial","The mall","ch04;noun",0
-"El gimnasio","The gym","ch04;noun",0
+"El campo","The countryside","ch04;noun",1
+"El centro comercial","The mall","ch04;noun",2
+"El gimnasio","The gym","ch04;noun",1
 "El parque","The park","ch04;noun",0
 "El parque de diversiones","The amusement park","ch04;noun",0
 "La piscian","The swimming pool","ch04;noun",1
 "La alberca","The swimming pool","ch04;noun",0
-"La playa","The beach","ch04;noun",0
+"La playa","The beach","ch04;noun",1
 "¿Adónde?","To where?","ch04;questions",1
-"¿Adónde vas?","Where are you going?","ch04;questions",2
+"¿Adónde vas?","Where are you going?","ch04;questions",4
 "Conmigo","With me","ch04;words",0
 "Contigo","With you","ch04;words",4
 "Con él","With him","ch04;words",2
-"Con ellla","With her","ch04;words",0
+"Con ellla","With her","ch04;words",1
 "Con nosotros","With us (m)","ch04;words",1
-"Con vosotros","You you (plural, familiar, m)","ch04;words",0
-"Con ustedes","With you (plural, formal)","ch04;words",0
+"Con vosotros","You you (plural, familiar, m)","ch04;words",1
+"Con ustedes","With you (plural, formal)","ch04;words",1
 "Sin mí","Without me","ch04;words",1
 "Sin ti","Without you","ch04;words",1
 "Sin él","Without him","ch04;words",1
 "Sin ella","Without her","ch04;words",2
 "Sin nosotros","Without us","ch04;words",1
-"Sin vosotros","Without you (plural, familiar)","ch04;words",0
-"Sin ustedes","Withough you (plural, formal)","ch04;words",0
-"El amigo","The friend (m)","ch04;words",0
+"Sin vosotros","Without you (plural, familiar)","ch04;words",2
+"Sin ustedes","Withough you (plural, formal)","ch04;words",1
+"El amigo","The friend (m)","ch04;words",1
 "La amiga","The friend (f)","ch04;words",1
 "Sol@","Alone","ch04;words",0
 "Junt@s ","Together","ch04;words",1
@@ -889,57 +889,57 @@
 "Los fines de semana","On the weekends","ch04;words;time;frequency",0
 "Después de","After ..","ch04;words;time;frequency",2
 "En/por la mañana","In the morning","ch04;words;time;frequency",0
-"En/por la tarde","In the afternoon","ch04;words;time;frequency",1
-"En/por la noche","At nights","ch04;words;time;frequency",1
-"Generalmente","Generally","ch04;words;time;frequency",1
+"En/por la tarde","In the afternoon","ch04;words;time;frequency",2
+"En/por la noche","At night","ch04;words;time;frequency",2
+"Generalmente","Generally","ch04;words;time;frequency",2
 "Hoy no","Not today","ch04;words",0
 "!No me digas!","You don't say!","ch04;words",0
 "!Genial!","Awesome","ch04;words",0
 "!Qué lástima","What a pity!","ch04;words",1
 "!Qué pena!","What a shame/how sad!","ch04;words",0
 "La voz","The voice","ch04;words",1
-"Las voces","The voices","ch04;words",0
+"Las voces","The voices","ch04;words",1
 "Algo ","Something","ch04;words",0
 "Nada","Nothing","ch04;words",1
-"El pasatiempo","The pastime","ch04;words",0
-"Porque","Because","ch04;words",0
+"El pasatiempo","The pastime","ch04;words",2
+"Porque","Because","ch04;words",3
 "Para nader","In order to swim","ch04;words;frequency",1
 "Después de correr","After running","ch04;words;frequency",0
 "Antes de trabacho","Before work","ch04;words;frequency",0
-"Sin cosinar","Without cooking","ch04;words;frequency",0
-"Las comidas","The meals","ch05;words;food",0
+"Sin cosinar","Without cooking","ch04;words;frequency",1
+"Las comidas","The meals","ch05;words;food",1
 "Beber","To drink","ch05;verb;inf;food",0
-"Tomar","To drink","ch05;verb;inf;food",1
+"Tomar","To drink","ch05;verb;inf;food",2
 "Desayunar","To eat breakfast","ch05;verb;inf;food",0
 "Almorzar (o>ue)","To eat lunch","ch05;verb;inf;food",0
 "Cenar","To eat dinner","ch05;verb;inf;food",0
-"La cena","The dinner","ch05;words;food",0
-"La comida","The food","ch05;words;food",0
-"La comida chatarra","The junk food","ch05;words;food",1
+"La cena","The dinner","ch05;words;food",1
+"La comida","The food","ch05;words;food",1
+"La comida chatarra","The junk food","ch05;words;food",2
 "El desayuno","Breakfast","ch05;words;food",1
 "La merienda","Afternoon snack","ch05;words;food",0
 "La botana","The snack","ch05;words;food",0
 "El aperitivo","The appetizer","ch05;words;food",0
 "Los refrigerios","The refreshments","ch05;words;food",1
 "El enseña espagñol","He teaches spanish","ch04;sentences",0
-"Yo necesito cantar para bailar","I need to sing in order to dance","ch04;sentences",1
-"Yo necesito estudiar","I need to study","ch04;sentenes",0
-"Estoy nervioso porque tengo que ir a la clase espagñol en el sabado","I am nervous, because we have to go to Spanish class on Saterday","ch04;sentences;longSentences",0
-"Nosotros trabajamos juntos","We work together","ch04;sentences",1
-"Quando viajo, voy a te escribir una carta","When I travel, I am going to write you a letter","ch04;sentences",0
+"Yo necesito cantar para bailar","I need to sing in order to dance","ch04;sentences",2
+"Yo necesito estudiar","I need to study","ch04;sentenes",2
+"Estoy nervioso porque tenemos que ir a la clase espagñol en el sabado","I am nervous, because we have to go to Spanish class on Saterday","ch04;sentences;longSentences",2
+"Nosotros trabajamos juntos","We work together","ch04;sentences",2
+"Quando viajo, voy a te escribir una carta","When I travel, I am going to write you a letter","ch04;sentences",1
 "Yo voy a dormir poque, estoy cansado","I am going to sleep because I am tired","ch04;sentences",2
 "Nosotros vamos a una fiesta sin vosotros","We are going to a party without you all","ch04;sentences",1
-"El arroz","The rice","ch05;words;food",0
-"El atún","The tuna","ch05;words;food",0
+"El arroz","The rice","ch05;words;food",1
+"El atún","The tuna","ch05;words;food",1
 "El bisctec","The steak","ch05;words;food",0
-"La carne","The meat (beef)","ch05;words;food",1
-"El cereal","The cereal","ch05;words;food",0
+"La carne","The meat (beef)","ch05;words;food",2
+"El cereal","The cereal","ch05;words;food",1
 "La ensalada","The saled","ch05;words;food",0
 "Las frutas","The fruits","ch05;words;food",1
 "El aguacate","The avocado","ch05;words;food",0
-"La palta","The avocado","ch05;words;food",0
-"El arándano","The blueberry or cranberry","ch05;words;food",0
-"La ciruela","The plum","ch05;words;food",0
+"La palta","The avocado","ch05;words;food",1
+"El arándano","The blueberry or cranberry","ch05;words;food",1
+"La ciruela","The plum","ch05;words;food",2
 "El durazno","The peach","ch05;words;food",1
 "El melocotón","The peach","ch05;words;food",0
 "El melón","The melon","ch05;words;food",0
@@ -947,17 +947,17 @@
 "La naranja","The orange","ch05;words;food",0
 "La centarina","The nectarin","ch05;words;food",0
 "La pera","The pear","ch05;words;food",1
-"La piña","The Pineapple","ch05;words;food",0
+"La piña","The Pineapple","ch05;words;food",1
 "El plátano","The banana","ch05;words;food",1
 "La banana","The banana","ch05;words;food",1
 "La toronja","The grapefruit","ch05;words;food",0
-"La sandía","The watermelon","ch05;words;food",0
-"El tomato","The tomato","ch05;words;food",0
-"El jitomato","The tomato","ch05;words;food",0
+"La sandía","The watermelon","ch05;words;food",1
+"El tomato","The tomato","ch05;words;food",1
+"El jitomato","The tomato","ch05;words;food",1
 "La uva","The grape","ch05;words;food",1
 "La zaramora","The blackberry","ch05;words;food",0
 "Los frutos secos","The nuts","ch05;words;food",0
-"Las nueces","The nuts","ch05;words;food",0
+"Las nueces","The nuts","ch05;words;food",1
 "La almendra","The almond","ch05;words;food",0
 "El anacardo","The cashew","ch05;words;food",0
 "El cacahuate","The peanut","ch05;words;food",0
@@ -965,7 +965,7 @@
 "La nuez","The walnut","ch05;words;food",0
 "El pistacho","The pistachio","ch05;words;food",0
 "El guisado","The stew","ch05;words;food",1
-"La hamburguesa","The hamburger","ch05;words;food",0
+"La hamburguesa","The hamburger","ch05;words;food",1
 "La hamburguesa con queso","The cheeseburger","ch05;words;food",0
 "El huevo","The egg","ch05;words;food",0
 "El jamón","The ham","ch05;words;food",0
@@ -976,74 +976,74 @@
 "La papa","The potato","ch05;words;food",0
 "Las papas al horno","The baked potatoes","ch05;words;food",0
 "Las papas fritas","The french fries","ch05;words;food",0
-"El pescado","The fish","ch05;words;food",0
+"El pescado","The fish","ch05;words;food",1
 "El pollo","The chicken","ch05;words;food",0
 "El puerco","The pork","ch05;words;food",0
 "El queso","The cheese","ch05;words;food",0
 "La sal y la pimienta","Salt and pepper","ch05;words;food",1
-"El sándwich","The sandwich","ch05;words;food",0
-"La torta","The sandwich","ch05;words;food",0
-"El sándwich de jamón","The ham sandwich","ch05;words;food",0
+"El sándwich","The sandwich","ch05;words;food",1
+"La torta","The sandwich","ch05;words;food",1
+"El sándwich de jamón","The ham sandwich","ch05;words;food",1
 "La sopa","The soup","ch05;words;food",0
 "La sopa de pollo","The chicken soup","ch05;words;food",0
 "La sopa de tomate","The tomato soup","ch05;words;food",0
 "La sopa de verduras","The vegetable soup","ch05;words;food",0
 "Las verduras","The vegetables","ch05;words;food",0
-"Los vegetales","The vegetables","ch05;words;food",1
+"Los vegetales","The vegetables","ch05;words;food",2
 "El ajo","The garlic","ch05;words;food",0
 "El apio","Celery","ch05;words;food",0
 "La berenjena","The eggplant","ch05;words;food",0
-"El brócoli","The broccoli","ch05;words;food",1
+"El brócoli","The broccoli","ch05;words;food",3
 "El brécol","The broccoli","ch05;words;food",1
 "La calabacín","The zuccini","ch05;words;food",1
 "La cebolla","The onion","ch05;words;food",1
 "Los chícharos","The peas","ch05;words;food",0
 "Los guisantees","The peas","ch05;words;food",0
-"El chile","Chili pepper","ch05;words;food",1
+"El chile","Chili pepper","ch05;words;food",2
 "La col","The cabbage","ch05;words;food",1
 "El repollo","The cabbage","ch05;words;food",0
 "La col rizada","The kale","ch05;words;food",0
 "La coliflor","The cauliflower","ch05;words;food",0
 "Las espárragos","The asparagus","ch05;words;food",0
 "Las espinacas","The spinach","ch05;words;food",1
-"Las habichuelas verder","The green beans","ch05;words;food",0
-"La lechuga","The lettuce","ch05;words;food",0
+"Las habichuelas verder","The green beans","ch05;words;food",1
+"La lechuga","The lettuce","ch05;words;food",1
 "El pepinillo","The pickle","ch05;words;food",0
 "El pepino","The cucumber","ch05;words;food",0
 "El pimiento","The bell pepper","ch05;words;food",0
 "Los repollitos de Bruselas","The brussels sprouts","ch05;words;food",0
 "El maíz","The corn","ch05;words;food",0
-"La zanahoria","The carrot","ch05;words;food",0
+"La zanahoria","The carrot","ch05;words;food",1
 "El yogur(t)","The yogurt","ch05;words;food",0
 "El aqua","The water","ch05;words;food",2
-"El café","The coffee","ch05;words;food",1
+"El café","The coffee","ch05;words;food",2
 "El jugo de naranja","The orange juice","ch05;words;food",0
 "El jugo de manzana","The apple juice","ch05;words;food",0
 "La leche","The milk","ch05;words;food",0
 "El licuado","The smoothie","ch05;words;food",0
 "La limonada","The lemonade","ch05;words;food",0
-"El refresco/la gaseosa","The soft drink","ch05;words;food",0
+"El refresco/la gaseosa","The soft drink","ch05;words;food",1
 "El té","The tea","ch05;words;food",0
 "El té helado","The ice tea","ch05;words;food",0
 "buen@ para la salud","Good for the health","ch05;words;food",0
 "Mal@ para la salud","Bad for the health","ch05;words;food",0
 "Delecios@","Delicious","ch05;words;food",0
 "Sabros@","Delicious","ch05;words;food",0
-"Asqueros@","Disgusting","ch05;words;food",1
+"Asqueros@","Disgusting","ch05;words;food",2
 "Auténtic@","Authentic","ch05;words;food",1
 "Creo que sí","I believe so","ch05;words;food",0
 "Creo que no","I don't think so","ch05;words;food",0
 "!Qué asco!","How disgusting!","ch05;words;food",2
 "!Quácala!","Yuck!","ch05;words;food",0
-"De vez en cuando","From time to time","ch05;words;food",1
+"De vez en cuando","From time to time","ch05;words;food",3
 "Algo ","Something","ch05;words;food",1
-"Nada","Nothing","ch05;words;food",0
+"Nada","Nothing","ch05;words;food",1
 "Algun(@)","Some","ch05;words;food",0
 "Ningun(@)","None","ch05;words;food",0
 "La experiencia","The experience","ch05;words;food",0
 "Los dos","Both","ch05;words;food",0
 "Tener hambre","To be (have) hungry","ch05;words;food",0
-"Tener sed","To be (have) thirsty","ch05;words;food",0
+"Tener sed","To be (have) thirsty","ch05;words;food",1
 "La familia","The family","ch06;family",0
 "Los abuelos","The grand parents","ch06;family",0
 "El abuelo","The grandpa","ch06;family",0
@@ -1207,3 +1207,23 @@
 "¿Qué te parece?","What do you think?","ch06",0
 "Me parece bien","It seems good to me","ch06",0
 "Igual","Same/equal","ch06",0
+"Yo conozco cómo escribir","I know how to write","ch04;sentences",3
+"Yo sé cómo montar en bicicleta","I know how to ride a bicycle","ch04;sentences",2
+"Me gusta cuando mi amigo Toco la guitarra","I like it when my friend plays the guitar","ch04;sentences",0
+"No puedo estudiar espagñol esta noche porque necesito pintar la casa","I cannot study Spanish tonight because I need to paint the house","ch04;sentences",0
+"De vez en cuando me gusta comer los huevos","From time to time I like to eat eggs","ch05;food;sentences",0
+"El abre la puerta a su madre","To open","ch04;sentences",1
+"Yo voy a comer este melón","I am going to eat this melon","ch05;food;sentences",0
+"La comida está en el refrigerador","The food","ch05;food;sentences",0
+"Ella quiere etos gatos","She wants","ch04;toWant;sentences",0
+"Este chile es más caliente que ese chile","This chili is hotter than that chili","ch05;sentences",0
+"Nosotros vamos rentar esa casa","We are going to rent that house","ch04;sentences",0
+"Estos libros son muy interesante","These books are very interesting","ch04;sentences",1
+"Estoy harto, estudiar espagñol es muy difícil","I (m) am fed up","ch04;sentences",1
+"Después de estudiar espagñol estoy cansado","After studying Spanish I am tired","ch04;sentences",0
+"Me gusta viajar, pero este año no puedo viajar mucho","I like to travel, but this year I cannot travel much","ch04;sentences",0
+"No puedo comer sin cosinar","We can't eat without cooking","ch04;sentences",0
+"A ella, le gusta el jitomato","She likes the tomatoes","ch05;sentences",0
+"Si quere, puede rentar nuestra casa","I you want, you can rent our house","ch03;Possesion;sentences",0
+"Me gusta comer, pero no quero comer los vegetales","I like to eat, but I don't want to eat the vegetables","ch05;food;sentences",0
+"Estoy nervioso porque tenemos que ir a la clase espagñol en el sabado","I am nervous, because we have to go to Spanish class on Saterday","ch04;sentences;longSentences",1
