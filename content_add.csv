@@ -1,0 +1,1272 @@
+SP,EN,Tag,Count
+Hola,Hello,ch01;greetings,0
+Buenos días,Good morning,ch01;greetings,0
+Buenas tardes,Good afternoon,ch01;greetings,0
+Buenos Noches,Goodnight,ch01;greetings,1
+Adiós,Bye,ch01;greetings,0
+Hasta luego,See you later,ch01;greetings,0
+¿Cómo estás (tú)?,How are you? (familiar),ch01;greetings,0
+¿Cómo está usted?,How are you? (formal),ch01;greetings,1
+¿Qué tal?,How are things?,ch01;greetings,0
+Bien,Well,ch01;greetings,2
+Muy bien,Very well,ch01;greetings,0
+Mal,Badly,ch01;greetings,0
+Muy mal,Very badly,ch01;greetings,0
+Regular,Okay,ch01;greetings,0
+Más o menos,More or less fine,ch01;greetings,1
+Gracias,Thank you,ch01;greetings,0
+Por favor,Please,ch01;greetings,0
+Muy amable,Very kind,ch01;greetings,0
+¿Cómo to llama?,What is your name? (familiar),ch01;introductions,0
+¿Cómo se llama?,What is your name? (formal),ch01;introductions,0
+Me llama,My name is,ch01;introductions,0
+El nombre,The name,ch01;introductions,0
+¿Y tú?,And you? (familiar),ch01;introductions,0
+¿Y usted?,And you? (formal),ch01;introductions,0
+Te presento a ,Let me introduce you to,ch01;introductions,1
+Mucho gusto!,It's a pleasure,ch01;introductions,0
+El gusto es mío!,The pleasure is mine!,ch01;introductions,0
+Encantad@!,Delighted!,ch01;introductions,0
+Igualmente!,Likewise!,ch01;introductions,0
+Señor,Sir,ch01;introductions,0
+Señora,Mrs.,ch01;introductions,0
+Señorita,Miss,ch01;introductions,0
+El día,The day,ch01;dates;object,0
+La semana,The week,ch01;dates;object,0
+El mes,the month,ch01;dates,0
+El año,The year,ch01;dates,1
+En,In,ch01;dates,0
+Próxim@,Next,ch01;dates,0
+La mañana,The morning,ch01;dates,0
+La tarde,The afternoon,ch01;dates,0
+La noche,The night,ch01;dates,0
+Hoy,Today,ch01;dates,1
+Mañana,Tomorrow,ch01;dates,0
+El lunes,Monday,ch01;dates,0
+El martes,Tuesday,ch01;dates,1
+El miércoles,Wednesday,ch01;dates,1
+El jueves,Thursday,ch01;dates,0
+El vieres,Friday,ch01;dates,2
+El sábado,Saturday,ch01;dates,0
+El domingo,Sunday,ch01;dates,1
+Enero,January,ch01;dates,0
+Febrero,February,ch01;dates,0
+Marzo,March,ch01;dates,0
+Abril,April,ch01;dates,0
+Mayo,May,ch01;dates,0
+Junio,June,ch01;dates,1
+Julio,July,ch01;dates,0
+Agosto,August,ch01;dates,0
+Septiembre,September,ch01;dates,0
+Octubre,October,ch01;dates,0
+Noviembre,November,ch01;dates,0
+Diciembre,December,ch01;dates,0
+Cero,Zero,ch01;numbers,0
+Uno,One,ch01;numbers,1
+Dos,Two,ch01;numbers,0
+Tres,Three,ch01;numbers,0
+Cuatro,Foud,ch01;numbers,0
+Cinco,Five,ch01;numbers,0
+Seis,Six,ch01;numbers,0
+Siete,Seven,ch01;numbers,0
+Ocho,Eight,ch01;numbers,0
+Nueve,Nine,ch01;numbers,0
+Diez,Ten,ch01;numbers,0
+Once,Eleven,ch01;numbers,0
+Doce,Twelve,ch01;numbers,0
+Trece,Thirteen,ch01;numbers,0
+Catorce,Fourteen,ch01;numbers,0
+Quince,Fifteen,ch01;numbers,0
+Dieciséis,Sixteen,ch01;numbers,0
+Diecisiete,Seventeen,ch01;numbers,0
+Dieciocho,Eighteen,ch01;numbers,0
+Diecinueve,Nineteen,ch01;numbers,0
+Veinte,Twenty,ch01;numbers,0
+Veintiuno,Twenty-one,ch01;numbers,0
+Veintidós,Twenty-two,ch01;numbers,1
+Veintitrés,Trenty-three,ch01;numbers,0
+Veinticuartro,Twenty-four,ch01;numbers,0
+Veinticinco,Twenty-five,ch01;numbers,0
+Veintiséis,Twenty-six,ch01;numbers,0
+Veintisiete,Twenty-seven,ch01;numbers,0
+Veintiocho,Twenty-eight,ch01;numbers,0
+Veintinueve,Twenty-nine,ch01;numbers,0
+Treinta,Thirty,ch01;numbers,0
+Treinta y uno,Thirty-one,ch01;numbers,0
+Dos mil,Two thousand,ch01;numbers,0
+¿Qué?,What?,ch01;questions,0
+¿Dónde?,Where?,ch01;questions,0
+¿Cuál?,Which? (singular),ch01;questions,0
+¿Cuáles?,Which? (plural),ch01;questions,0
+¿Cuándo?,When?,ch01;questions,0
+¿Por qué?,Why?,ch01;questions,0
+¿Quién?,Who?,ch01;questions,0
+¿Como?,How?,ch01;questions,0
+¿Cuánt@?,How much?,ch01;questions,1
+?Cuánt@s?,How many?,ch01;questions,0
+¿Cuál es la fecha de hoy?,What is today's date?,ch01;sentences,0
+¿Que dia es hoy?,Whay day is it?,ch01;sentences,0
+Es el treinta y uno de enero,It is the 31st of January,ch01;sentences,1
+Es el quince de enero,It is the 15th of January,ch01;sentences,0
+Es el diecisiete de abril,It is the 17th of April,ch01;sentences,0
+Es el dieciséis de junio,It is the 16th of June,ch01;sentences,0
+El el trece de septembre,It is the 13th of September,ch01;sentences,1
+¿Cuando es tu cumpleaños?,When is your birthday?,ch01;sentences,0
+¿Cuántos años tienes?,How old are you?,ch01;sentences,1
+¿De dóndo eres?,Where are you from?,ch01;sentences,0
+Cumpleaños,Birthday,ch01,1
+Hoy,Today,ch01,0
+La fecha,The date,ch01;object,0
+Hoy es lunes,Today is Monday,ch01;sentences,0
+Hoy es martes,Today is Tuesday,ch01;sentences,1
+Hoy es miércoles,Today is Wednesday,ch01;sentences,1
+Hoy es jueves,Today is Thursday,ch01;sentences,1
+Hoy es viernes,Today is Friday,ch01;sentences,0
+Hoy es sábado,Today is Saturday,ch01;sentences,0
+Hoy es domingo,Today is Sunday,ch01;sentences,0
+Ayudar en casa,To help around the house,ch02;activities;verb;inf,0
+Cocinar,To cook,ch02;activities;verb;inf;regverb,0
+Dibujar,To draw,ch02;activities;verb;inf;regverb,0
+Escuchar música,To listen to music,ch02;activities;verb;inf,0
+Estar con amigos,To be with friends,ch02;activities;verb;inf,0
+Escribir,To write,ch02;activities;verb;inf;regverb,0
+Estudiar,To study,ch02;activities;verb;inf;regverb,0
+Hablar,To talk,ch02;activities;verb;inf;regverb,0
+Hacer,To do,ch02;activities;verb;inf;regverb,0
+Ir a la escuela,To go to school,ch02;activities;verb;inf,0
+Ir al cine,To go to the movies,ch02;activities;verb;inf,0
+Leer,To read,ch02;activities;verb;inf;regverb,0
+Nadar,To swim,ch02;activities;verb;inf;regverb,0
+Patinar,To skate,ch02;activities;verb;inf;regverb,0
+Pintar,To paint,ch02;activities;verb;inf;regverb,0
+Practica deportes,To play sports,ch02;activities;verb;inf,0
+Trabajar,To work,ch02;activities;verb;inf,0
+Tocar la guitarra,To play the guitar,ch02;activities;verb;inf,1
+Ver la televisión,To watch TV,ch02;activities;verb;inf,1
+Amable,Kind,ch02;personalityTraits,0
+Artístic@,Artistic,ch02;personalityTraits,0
+Atrevid@,Daring,ch02;personalityTraits,0
+Callado@,Quiet,ch02;personalityTraits,0
+Deportista,Sporty?,ch02;personalityTraits,0
+Desordenad@,Unorganized,ch02;personalityTraits,0
+Generos@,Generous,ch02;personalityTraits,0
+Gracios@,Funny,ch02;personalityTraits,1
+Impaciente,Impatient,ch02;personalityTraits,0
+Ordenad@,Organized,ch02;personalityTraits,0
+Paciente,Patient,ch02;personalityTraits,0
+Perezos@,Lazy,ch02;personalityTraits,0
+Prudente,Cautious,ch02;personalityTraits,0
+Seri@,Serious,ch02;personalityTraits,0
+Sociable,Sociable,ch02;personalityTraits,0
+Tacañ@,Cheap/Stingy,ch02;personalityTraits,0
+Trabajador@,Hard working,ch02;personalityTraits,0
+¿De veras?,Really?,ch02;verify,0
+¿En serio?,Seriously?,ch02;verify,0
+(A mí) me gusta,I like,ch02;like,0
+Me gusta más,I like more,ch02;like,0
+Me gusta mucho,I like mucho,ch02;like,0
+A mí también,I like it too,ch02;like,1
+(A mí) no me gusta,I don't like,ch02;like,0
+No me gusta mucho,I don't like very much,ch02;like,0
+No me gusta nada,I don't like at all,ch02;like,0
+No me gusta tampoco,I don't like either/neither,ch02;like,1
+Sí,Yes,ch02;smallWords,0
+No,No,ch02;smallWords,0
+Quizá,Maybe,ch02;smallWords,0
+Y,And,ch02;smallWords,0
+o,Or,ch02;smallWords,0
+A veces,Sometimes,ch02;smallWords,0
+Muy,Very,ch02;smallWords,0
+Pero,But,ch02;smallWords,0
+Por eso,That's why/for that,ch02;smallWords,0
+Pues,Well/then,ch02;smallWords,0
+También,Also,ch02;smallWords,0
+Tampoco,Neither/Either,ch02;smallWords,0
+¿Qué te gusta hacer?,What do you like to do?,ch02;sentences,0
+¿Y a ti?,And you? (as object),ch02;sentences,1
+¿Eres?,Are you?,ch02;sentences,0
+¿Cómo eres?,What are you like?,ch02;sentences,0
+Yo soy,I am (trait),ch02;toBe,0
+Tú eres,"you are (singular, trait)",ch02;toBe,0
+El es,He is (trait),ch02;toBe,1
+Ella es,She is (trait),ch02;toBe,0
+Nosotros somos,We are (trait),ch02;toBe,0
+Vosotors sois,"You are (plural, trait)",ch02;toBe,0
+Ellos son,"They are (masulin, triat)",ch02;toBe,1
+Ellas son,"They are (feminin, triat)",ch02;toBe,0
+Yo estoy,I am (state),ch02;toBe,0
+Tú estás,"you are (singular, state)",ch02;toBe,0
+El está,He is (state),ch02;toBe,0
+Ella está,She is (state),ch02;toBe,0
+Nosotros estamos,We are (state),ch02;toBe,0
+Vosotros estáis,"You are (plural, state)",ch02;toBe,0
+Ellos están,They are (maculin state),ch02;toBe,0
+Ellas están,They are (feminin state),ch02;toBe,0
+Me gusta,I like (singular object),ch02;toLike,0
+Me gustan,I like (plural object),ch02;toLike,0
+Te gusta,"You like (singular, singular object)",ch02;toLike,0
+Te gustan,"You like (singular, plural object)",ch02;toLike,0
+Le gusta,He/she likes (singular object),ch02;toLike,0
+Le gustan,He/she likes (plural object),ch02;toLike,0
+Nos gusta,We like (singular object),ch02;toLike,0
+Nos gustan,We like (plural object),ch02;toLike,0
+Os gusta,"You like (plural, singular object)",ch02;toLike,0
+Os gustan,"You like (plural, plural object)",ch02;toLike,0
+Les gusta,They like (singular object),ch02;toLike,0
+Les gustan,They like (plural object),ch02;toLike,0
+Me,Me (indirect object),ch02;indirectObjectPronouns,0
+Te,You (indirect object),ch02;indirectObjectPronouns,0
+Le,Him/her (indirect object),ch02;indirectObjectPronouns,0
+Nos,Us (indirect object),ch02;indirectObjectPronouns,0
+Os,You (plural) (indirect object),ch02;indirectObjectPronouns,0
+Les,Les (indirect object),ch02;indirectObjectPronouns,0
+Me encanta,Delights me (singular),ch02;toDelight,0
+Me encantan,Delights me (plural),ch02;toDelight,0
+Te encanta,Delights you (singular),ch02;toDelight,0
+Te encantan,Delights you (plural),ch02;toDelight,0
+Le encanta,Delights him/her (singular),ch02;toDelight,0
+Le encantan,Delights him/her (plural),ch02;toDelight,0
+Nos encanta,Delights us (singular),ch02;toDelight,0
+Nos encantan,Delights us (plural),ch02;toDelight,0
+Os encanta,Delights you (singular),ch02;toDelight,0
+Os encantan,Delights you (plural),ch02;toDelight,1
+Les encanta,Delights them (singular),ch02;toDelight,0
+Les encantan,Delights them (plural),ch02;toDelight,0
+Nos encanta la música,The music delights us,ch02;sentences,0
+Soy tacaño,I am cheap/stingy,ch02;sentences,0
+Ella es deportista,She is sporty,ch02;sentences,0
+Nosotros atrevido,We are daring,ch02;sentences,0
+Me gustan los coches,I like the cars,ch02;sentences,0
+El almuerzo,Lunch,ch03;school,0
+El Arte,Art,ch03;school,0
+Las ciencias,Science,ch03;school,0
+Las ciencias sociales,Social sciences,ch03;school,0
+La clase de,Class of,ch03;school,0
+La educación fisica,P.E.,ch03;school,0
+El español,Spanish,ch03;school,0
+El englés,English,ch03;school,0
+Las matemáticas,Math,ch03;school,0
+La música,Music,ch03;school,0
+Dificil,Difficult,ch03;school,1
+Fácil,Easy,ch03;school,0
+Enseñar,To teach,ch03;school;regVerb,1
+La tarea,Homework,ch03;school,0
+La hora,Time (the hour),ch03;time,1
+Empezar,To start,ch03;time;regVerb,0
+Empieza,It starts,ch03;time,0
+Terminar,To end,ch03;time;regVerb,0
+Termina,It ends,ch03;time,1
+¿A qué hora?,At what time?,ch03;time,0
+¿A qué hora empieza?,At what time does it start?,ch03;time,0
+¿A qué hora termina?,At what time does it finish?,ch03;time,0
+Termina a la una,It ends at one,ch03;time,0
+Termina a las dos,It ends at two,ch03;time,0
+Mediodía,Midday,ch03;time,0
+Medianoche,In the middle of the night,ch03;time,0
+El semestre,The semester,ch03;time;school,0
+El primer selestre,The first semester,ch03;time;school,0
+El segundo semestre,The second semester,ch03;time;school,0
+La primera semana,The first week,ch03;time;school,0
+¿Qué hora es?,What time is it?,ch03;time,0
+Es la una,It's one,ch03;time,0
+Son las dos,It's two,ch03;time,0
+Cuarto,Quarter (15 mins),ch03;time,0
+Media,Half hour (30 mins),ch03;time,0
+De la mañana,In the morning,ch03;time,1
+De la tarde,In the afternoon,ch03;time,1
+De la noche,In the evening,ch03;time,0
+Son las once y media de la noche,It's 11:30 in the evening,ch03;time,0
+Cuarenta,Fourty,ch03;numbers,0
+Cincuenta,Fifty,ch03;numbers,0
+La agenda,The daily planner,ch03;things;officeSupplies;object,0
+El archivador,The filing cabinet,ch03;things;officeSupplies;object,0
+La calculadora,The calculator,ch03;things;officeSupplies;object,0
+El calendario,The calendar,ch03;things;officeSupplies;object,0
+La capeta,The file folder,ch03;things;officeSupplies;object,1
+La computadora,The computer,ch03;things;officeSupplies;object,0
+El cuaderno,The notebook,ch03;things;officeSupplies;object,0
+El diccionario,The dictionary,ch03;things;officeSupplies;object,0
+El escritorio,The desk,ch03;things;officeSupplies;object,0
+El horario,The schedule,ch03;things;officeSupplies;object,1
+El lápiz,The pencil,ch03;things;officeSupplies;object,0
+Los lápices,The pencils,ch03;things;officeSupplies,0
+El libro,The book,ch03;things;officeSupplies;object,2
+El marcador,The marker,ch03;things;officeSupplies;object,0
+La mochila,The paperback,ch03;things;officeSupplies;object,0
+El papel,The paper,ch03;things;officeSupplies;object,0
+La pluma,The pen,ch03;things;officeSupplies;object,0
+El bolígrafo,The pen,ch03;things;officeSupplies;object,0
+La regla,The ruler/rule,ch03;things;officeSupplies;object,0
+La cita,The appointment,ch03;work,1
+La escuela,The school,ch03;school;object,1
+La reunión,The meeting,ch03;work,0
+El trabjo,Work,ch03;work,0
+El/La colega,The colleague,ch03;persons;work,0
+El/La consejer@,The counselor,ch03;persons;work,0
+El/La compañer@,The mate,ch03;persons;work,0
+El/La director@,The director,ch03;persons;work;school,1
+El/La emplead@,The employee,ch03;persons;work,0
+El/La estudiante,The student,ch03;persons;work;school,0
+El jefe/La jefa,The boss,ch03;persons;work,0
+El/La maestro,The teacher,ch03;persons;work;school,0
+El mentor/La mentora,The mentor,ch03;persons;work;school,0
+El tutor/La turota,The tutor,ch03;persons;work;school,1
+Importante,Important,ch03;Adjective,0
+Nos encantan los coches,The cars delight us,ch02;sentences,1
+No me gusta tampoco el presidente,I don't like the president either,ch02;sentences,0
+La clase es en la mediodía,The class is at midday,ch02;sentences,0
+Tu estas infermo,You are ill,ch02;sentences,0
+Me encantan los libros,The books delight me,ch03;sentences,0
+Nos gusta la casa,We like the house,ch02;sentences,0
+Me gusta nadar,I like to swim,ch02;sentences,0
+Nos gustan los casas,We like the houses,ch02;sentences,0
+Me gusta empezar la clase,I like to start the calss,ch03;sentences,2
+Le gusta ensenar,He likes to teach,ch03;sentences,0
+Yo estoy en la habitacion,I am in the room,ch02;sentences,0
+Les gustan las clases,They like the classes,ch02;sentences,0
+Es una clase importante,It's an important class,ch02;sentences,0
+A ella no le gusta nacar,She doesn't like to swim,ch02;sentences,0
+A el le encanta la musica,The music delights him,ch02;sentences,0
+Son las nuave y cuatro,It's 9:15,ch02;sentences,0
+La regla esta en la mesa,The ruler is on the table,ch03;sentences,1
+nos gusta ver la televicion,We like to watch television,ch02;sentences,0
+Me encantan ver la televicion,Watching tv delights me,ch02;sentences,0
+La clase termina a las dos,The class ends at two,ch02;sentences,0
+El esta guapo,He is handsome,ch02;sentences,0
+Me encanta el teatro,The theater delights me,ch02;sentences,0
+Yo quiero hacer algo,I want to do something,ch02;sentences,0
+Soy callado,I'm quiet,ch02;sentences,0
+No me gusta mucho nadar,I don't like to swim very much,ch02;sentences,0
+Nosotros son ordenados,We are organized,ch02;sentences,0
+Les gustan los gatos,They like the cats,ch02;sentences,0
+A mi tampoco me gusta escribar,I don't like to write either,ch02;sentences,1
+El es serio,He is serious,ch02;sentences,0
+Me gusta pintar la casa,I like to paint the house,ch02;sentences,0
+Os gusta mi pelo,You (all) like my hair,ch02;sentences,0
+Ellas son seria,They (female) are serious,ch02;sentences,0
+Ella es atrevida,She is daring,ch02;sentences,0
+Ella es tacana,She is cheap,ch02;sentences,0
+El payaso es gracioso,The clown is funny,ch01;sentences,1
+Yo nado en el agua,I swim in the water,ch03;sentences,0
+De donde es usted?,Where are you from?,ch01;sentences,0
+El meastro es muy inteligente,The teacher is very smart,ch03;sentences,0
+Feliz de cinco de mayo,Happy cinco de mayo,ch03;sentences,0
+El marcador es verde,The marker is green,ch03;sentences,0
+La clase es facil,The class is easy,ch03;sentences,0
+El lapiz es amarillo,The pencil is yellow,ch03;sentences,1
+Ellos son verde,They are green,ch02;sentences,0
+Yo tengo nueve pesos,I have nine pesos,ch04;sentences,1
+El lapiz es en el escritorio,The pencil is on the table,ch03;sentences,0
+Ella esta sentada,She is seated,ch02;sentences,0
+Es el veintinueve de enero,It is January 29th,ch02;sentences,0
+Yo tengo,I have,ch03;toHave,1
+Tú tienes,You have,ch03;toHave,0
+Mi,My,ch03;Possesion,0
+Tu,Your (singular),ch03;Possesion,0
+Su,His/hers/Your (formal),ch03;Possesion,0
+Nuestr@,Our,ch03;Possesion,1
+Vuestr@,Your (plural),ch03;Possesion,1
+Su,Their,ch03;Possesion,0
+Mi jefe,My boss,ch03;Possesion;work ,0
+Tu jefe,Your boss,ch03;Possesion;work ,0
+Nuestro jefe,Our (male) boss,ch03;Possesion;work ,0
+Nuestra jefa,Our (female) boss,ch03;Possesion;work ,0
+Tengo mis cuardernos en mi mochila,I have my notebooks in my backpack,ch03;sentences,0
+Mi nombre es,My name is,ch03;sentences,0
+¿cuál es su nombre?,What is his/her name?,ch03;sentences,0
+¿Cómo se llame tu jefa?,What is your boss's name?,ch03,0
+¿Cuál es el nombre de tu jefa?,What is the name of your boss (female),ch03,0
+El apodo,The nickname,ch03,1
+El sobrenombre,The nickname,ch03,0
+El mote,The nickname,ch03,0
+Para,For,ch03,0
+Tengo un lápiz para la clase,I have a pencil for the class,ch03;sentences,0
+¿Tienes tu computadora para la reunión?,Do you have your computer for the meeting?,ch03;sentences,1
+Necesitar,To need,ch03;regVerb,0
+Yo necesito,I need,ch03,0
+Tú necesitas,You need,ch03,0
+Necesito un cuaderno para la reunión,I need a notebood for the meeting,ch03;sentences,0
+¿Necsitas una agenda para el trabajo?,Do you need a daily planner for work?,ch03;sentences,0
+Much@,A lot of/much,ch03,0
+Much@s,A lot of/many,ch03,0
+Poc@,A little,ch03,0
+Poc@s,A few,ch03,0
+¿Tienes mucha tarea?,Do you have a lot of homework?,ch03;sentences,1
+¿Tienes muchas plumas?,Do you have a lot of pens?,ch03;sentences,0
+Tengo poca tarea,I have a little homework,ch03;sentences,0
+Tengo una pluma,I have one pen,ch03;sentences,0
+Lo siento,I'm sorry,ch03,0
+Lo siento mucho,I'm very sorry,ch03,0
+Aquí,Here,ch03,0
+Aquí está,Here it is,ch03,0
+Allí,There,ch03,1
+Allí está,There it is,ch03,0
+Favorit@,Favorite,ch03,0
+Más,More/most,ch03,0
+Menos,Less/fewer/least,ch03,0
+De,Of/from,ch03,0
+De la escuela,From the school,ch03,0
+A,To (direction),ch03,1
+A la escuela,To the school,ch03,0
+De lunes a viernes,From Monday to Friday,ch03;days,1
+Yo hablo,I speak,ch03;toSpeak;verb;conj,1
+Tú hablas,You speak,ch03;toSpeak;verb;conj,0
+El habla,He speaks,ch03;toSpeak;verb;conj,0
+Ella habla,She speaks,ch03;toSpeak;verb;conj,0
+Usted habla,You (formal) speak,ch03;toSpeak;verb;conj,0
+Nosotros hablamos,We speak,ch03;toSpeak;verb;conj,1
+Vosotros habláis,You (plural) speak,ch03;toSpeak;verb;conj,1
+Ellos hablan,They speak,ch03;toSpeak;verb;conj,0
+Ellas hablan,They speak,ch03;toSpeak;verb;conj,0
+Ustedes hablan,You (formal) speak,ch03;toSpeak;verb;conj,0
+Yo como,I eat,ch03;toEat;verb;conj,0
+Tú comes,You eat,ch03;toEat;verb;conj,0
+El come,He eats,ch03;toEat;verb;conj,0
+Ella come,She eats,ch03;toEat;verb;conj,0
+Usted come,You (formal) eat,ch03;toEat;verb;conj,0
+Nosotros comenos,We eat,ch03;toEat;verb;conj,1
+Vosotros coméis,You (plural) eat,ch03;toEat;verb;conj,0
+Ellos comen,They eat,ch03;toEat;verb;conj,0
+Ellas comen,They eat,ch03;toEat;verb;conj,0
+Ustedes comen,You (formal) eat,ch03;toEat;verb;conj,0
+Vivir,To live,ch03;toLive;verb;conj;regVerb,0
+Yo vivo,I live,ch03;toLive;verb;conj,1
+Tú vives,You live,ch03;toLive;verb;conj,1
+El vive,He lives,ch03;toLive;verb;conj,0
+Ella vive,She lives,ch03;toLive;verb;conj,0
+Usted vive,You (formal) live,ch03;toLive;verb;conj,0
+Nosotros vivimos,We live,ch03;toLive;verb;conj,1
+Vosotros vivis,You (plural) live,ch03;toLive;verb;conj,0
+Ellos viven,They live,ch03;toLive;verb;conj,0
+Ellas viven,They live,ch03;toLive;verb;conj,0
+Ustedes viven,"You (plural, formal) live",ch03;toLive;verb;conj,0
+Ir,To go,ch04;togo;verb;irregVerb,0
+Yo voy,I go,ch04;togo;verb;irregVerb,1
+Tú vas,You go,ch04;togo;verb;irregVerb,0
+El va,He goes,ch04;togo;verb;irregVerb,2
+Ella va,She goes,ch04;togo;verb;irregVerb,1
+Usted va,You (formal) go,ch04;togo;verb;irregVerb,2
+Nosotros vamos,We go,ch04;togo;verb;irregVerb,2
+Vosotros Vais,You (plural) go,ch04;togo;verb;irregVerb,0
+Ellos van,They go,ch04;togo;verb;irregVerb,1
+Ellas van,They go,ch04;togo;verb;irregVerb,0
+Ustedes van,You (plural formal) go,ch04;togo;verb;irregVerb,0
+Poder,To be able,ch04;toBeAble;verb;irregVerb,1
+Yo pudeo,I am able,ch04;toBeAble;verb;irregVerb,0
+Tú puedes,You are able,ch04;toBeAble;verb;irregVerb,2
+El puede,He is able,ch04;toBeAble;verb;irregVerb,1
+Ella puede,She is able,ch04;toBeAble;verb;irregVerb,2
+Usted puede,You (formal) are able,ch04;toBeAble;verb;irregVerb,0
+Nosotros podemos,We are able,ch04;toBeAble;verb;irregVerb,0
+Vosotros podéis,You (plural) are able,ch04;toBeAble;verb;irregVerb,1
+Ellos pueden,They (masculin) are able,ch04;toBeAble;verb;irregVerb,0
+Ellas pueden,They (feminine) are able,ch04;toBeAble;verb;irregVerb,1
+Ustedes pueden,"You (plural,formal) are able",ch04;toBeAble;verb;irregVerb,0
+Querer,To want,ch04;toWant;verb;irregVerb,2
+Yo quiero,I want,ch04;toWant;verb;irregVerb,0
+Tú quieres,You want,ch04;toWant;verb;irregVerb,0
+El quiere,He wants,ch04;toWant;verb;irregVerb,4
+Ella quiere,She wants,ch04;toWant;verb;irregVerb,4
+Usted quiere,You (formal) want,ch04;toWant;verb;irregVerb,4
+Nosotros queremos,We want,ch04;toWant;verb;irregVerb,2
+Vosotros queréis,You (plural) want,ch04;toWant;verb;irregVerb,3
+Ellos quieren,They (masculin) want,ch04;toWant;verb;irregVerb,1
+Ellas quieren,They (feminine) want,ch04;toWant;verb;irregVerb,2
+Ustedes quieren,"You (plural,formal) want",ch04;toWant;verb;irregVerb,1
+Yo escucho musica,I listen to music,ch03;sentences,0
+¿Te gusta trabajar?,Do you like to work?,ch03;sentences,0
+Nosotros llegamos tarde por la cita,We arrived late for the appointment,ch03;sentences,0
+La estudiante estudia arte,The student (f) studies art,ch03;sentences,0
+Quizas mas tarde,Maybe later,ch03;sentences,0
+La clase de matimaticas,Math class,ch03;sentences,0
+Nosotros estamos tarde para la cita,We are late for the appointment,ch03;sentences,0
+Yo puedo mirar a gatos,I can look at cats,ch03;sentences,0
+No tú ni puedes mirar a gatos,No you can not look at cats,ch03;sentences,0
+Aqui esta la estudianta con la computadora,Here is the student (f) with the computer,ch03;sentences,1
+Quiza Yo hablo espanol,Maybe I speak spanish. ,ch03;sentences,0
+Te gusta cerveza?,Do you like beer?,ch03;sentences,0
+Son los dos en viernes,It's 2 on a Friday. ,ch03;sentences,0
+Yo tengo diecinueve anos hoy!,I am 19 today! ,ch03;sentences,1
+El habla de gatos,He talks about cats,ch03;sentences,0
+El esta contento,He is happy,ch03;sentences,0
+Ellos quieren fiesta,They want to party,ch03;sentences,0
+Yo tengo un reunion con mi mentor,I have a meeting with my mentor,ch03;sentences,0
+Yo creo en la ciencia,I believe in science,ch03;sentences,0
+Yo leo el libro,I read the book,ch03;sentences,0
+,The accident is horrible,,0
+,The television is big,,0
+,The animal is small,,0
+,The bicycle is good,,0
+,The café is exotic,,0
+,The camera is expensive,,0
+,The sofa is comfortable,,0
+,The crocodile is big,,0
+,The dolar is strong,,0
+,The family is extrodinary,,0
+,The piano is pretty,,0
+,The island is exotic,,0
+,The restaurant is tasty,,0
+,The music is pretty,,0
+,The telephone is expensive,,0
+,I am daring,,0
+,You are artistic,,0
+,He is quiet,,0
+,She is (plays sports),,0
+,we are generous,,0
+,You are funny I am imptient,,0
+,I am not organized,,0
+,I am very lazy,,0
+,We are cautious,,0
+,They are social,,0
+,She is hard working,,0
+,We are kind,,0
+,They (f) are artistic,,0
+,She is cheap,,0
+,They (f) are hard working,,0
+Me gusta,I like,ch03;personX,0
+Te gusta,You like,ch03;personX,0
+Le gusta,He likes,ch03;personX,0
+Le gusta,She likes,ch03;personX,0
+Yo quiero,I want,ch03;personX,0
+Tú quieres,You want,ch03;personX,0
+El quiere,He wants,ch03;personX,0
+Ella quiere,She wants,ch03;personX,0
+Yo puedo,I can,ch03;personX,0
+Tú puedes,You can,ch03;personX,0
+El puede,He can,ch03;personX,0
+Ella puede,She can,ch03;personX,0
+Yo tengo que,I have to ,ch03;personX,0
+Tú tienes que,You have to,ch03;personX,0
+El tiene,He has to,ch03;personX,0
+Ella tiene,She has to,ch03;personX,0
+Yo sé,I know,ch03;personX,0
+Tú sabes,You know,ch03;personX,0
+El sabe,He knows,ch03;personX,0
+Ella sabe,She knows,ch03;personX,0
+Yo necesito,I need,ch03;personX,0
+Tú necesitas,You need,ch03;personX,0
+El necesita,He needs,ch03;personX,0
+Ella necesita,She needs,ch03;personX,0
+Yo prefiero,I prefer,ch03;personX,0
+Tú prefieres,You prefer,ch03;personX,0
+El prefiere,He prefers,ch03;personX,0
+Ella prefiere,She prefers,ch03;personX,0
+Yo voy a,I am going to,ch03;personX,0
+Tú vas a,You are going to,ch03;personX,0
+El va a,He is going to,ch03;personX,0
+Ella va,She is going to,ch03;personX,0
+Le gusta estar con amigos,She likes (to) be with friends,personXInf;generated,0
+Tú sabes ir al cine,You know (to) go (to) the movies,personXInf;generated,0
+Tú prefieres estar con amigos,You prefer (to) be with friends,personXInf;generated,0
+El puede escuchar música,He can (to) listen (to) music,personXInf;generated,0
+Le gusta ir a la escuela,She likes (to) go (to) school,personXInf;generated,0
+Ella prefiere pintar,She prefers (to) paint,personXInf;generated,0
+Ella tiene patinar,She has to (to) skate,personXInf;generated,0
+Yo sé pintar,I know (to) paint,personXInf;generated,0
+Ella necesita patinar,She needs (to) skate,personXInf;generated,0
+Ella puede pintar,She can (to) paint,personXInf;generated,0
+Ella puede nadar,She can (to) swim,personXInf;generated,0
+Yo sé ayudar en casa,I know (to) help around the house,personXInf;generated,0
+Yo voy a patinar,I am going to (to) skate,personXInf;generated,0
+Yo quiero nadar,I want (to) swim,personXInf;generated,0
+El necesita ayudar en casa,He needs (to) help around the house,personXInf;generated,0
+Tú vas a estar con amigos,You are going to (to) be with friends,personXInf;generated,0
+El va a ir a la escuela,He is going to (to) go (to) school,personXInf;generated,0
+Tú necesitas patinar,You need (to) skate,personXInf;generated,0
+Le gusta tocar la guitarra,She likes (to) play the guitar,personXInf;generated,0
+Te gusta ver la televisión,You like (to) watch tv,personXInf;generated,0
+Me gusta patinar,I like (to) skate,personXInf;generated,0
+El tiene pintar,He has to (to) paint,personXInf;generated,0
+Le gusta nadar,She likes (to) swim,personXInf;generated,0
+Tú necesitas trabajar,You need (to) work,personXInf;generated,0
+El necesita trabajar,He needs (to) work,personXInf;generated,0
+Le gusta nadar,He likes (to) swim,personXInf;generated,0
+Ella necesita practica deportes,She needs (to) play sports,personXInf;generated,0
+Tú vas a leer,You are going to (to) read,personXInf;generated,0
+Tú tienes que ir al cine,You have to (to) go (to) the movies,personXInf;generated,0
+Yo tengo que nadar,I have to  (to) swim,personXInf;generated,0
+Tú prefieres dibujar,You prefer (to) draw,personXInf;generated,0
+Ella puede patinar,She can (to) skate,personXInf;generated,0
+Yo necesito hablar,I need (to) talk,personXInf;generated,0
+Yo prefiero escuchar música,I prefer (to) listen (to) music,personXInf;generated,0
+Tú prefieres hablar,You prefer (to) talk,personXInf;generated,1
+Yo quiero practica deportes,I want (to) play sports,personXInf;generated,0
+Ella sabe tocar la guitarra,She knows (to) play the guitar,personXInf;generated,0
+Le gusta estar con amigos,She likes (to) be with friends,personXInf;generated,0
+Yo quiero hacer,I want (to) do,personXInf;generated,0
+Yo necesito estudiar,I need (to) study,personXInf;generated,0
+El sabe patinar,He knows (to) skate,personXInf;generated,0
+Ella puede tocar la guitarra,She can (to) play the guitar,personXInf;generated,0
+Yo prefiero estar con amigos,I prefer (to) be with friends,personXInf;generated,0
+Ella quiere leer,She wants (to) read,personXInf;generated,0
+Tú prefieres nadar,You prefer (to) swim,personXInf;generated,0
+Tú sabes escribir,You know (to) write,personXInf;generated,0
+Ella puede ir al cine,She can (to) go (to) the movies,personXInf;generated,0
+Ella tiene estar con amigos,She has to (to) be with friends,personXInf;generated,0
+Me gusta ver la televisión,I like (to) watch tv,personXInf;generated,0
+El prefiere dibujar,He prefers (to) draw,personXInf;generated,0
+El prefiere estar con amigos,He prefers (to) be with friends,personXInf;generated,0
+Yo necesito tocar la guitarra,I need (to) play the guitar,personXInf;generated,0
+Ella tiene patinar,She has to (to) skate,personXInf;generated,0
+Tú sabes cocinar,You know (to) cook,personXInf;generated,0
+Yo voy a cocinar,I am going to (to) cook,personXInf;generated,0
+Ella puede dibujar,She can (to) draw,personXInf;generated,0
+Yo tengo que hablar,I have to  (to) talk,personXInf;generated,0
+Ella quiere escribir,She wants (to) write,personXInf;generated,0
+Tú quieres patinar,You want (to) skate,personXInf;generated,0
+Tú necesitas ver la televisión,You need (to) watch tv,personXInf;generated,0
+El sabe escuchar música,He knows (to) listen (to) music,personXInf;generated,0
+El va a patinar,He is going to (to) skate,personXInf;generated,0
+Yo tengo que ayudar en casa,I have to  (to) help around the house,personXInf;generated,0
+El va a ir a la escuela,He is going to (to) go (to) school,personXInf;generated,0
+El tiene hacer,He has to (to) do,personXInf;generated,0
+Yo quiero escuchar música,I want (to) listen (to) music,personXInf;generated,0
+Le gusta estar con amigos,He likes (to) be with friends,personXInf;generated,0
+El quiere tocar la guitarra,He wants (to) play the guitar,personXInf;generated,0
+Ella prefiere escribir,She prefers (to) write,personXInf;generated,0
+Me gusta estar con amigos,I like (to) be with friends,personXInf;generated,0
+Tú tienes que escuchar música,You have to (to) listen (to) music,personXInf;generated,0
+Ella puede nadar,She can (to) swim,personXInf;generated,0
+Ella necesita hablar,She needs (to) talk,personXInf;generated,0
+Tú tienes que hablar,You have to (to) talk,personXInf;generated,0
+Ella necesita escuchar música,She needs (to) listen (to) music,personXInf;generated,0
+Ella tiene estudiar,She has to (to) study,personXInf;generated,0
+Yo tengo que hablar,I have to  (to) talk,personXInf;generated,0
+Yo voy a cocinar,I am going to (to) cook,personXInf;generated,0
+Tú quieres estar con amigos,You want (to) be with friends,personXInf;generated,0
+Tú vas a estar con amigos,You are going to (to) be with friends,personXInf;generated,0
+Tú necesitas cocinar,You need (to) cook,personXInf;generated,0
+Tú quieres hacer,You want (to) do,personXInf;generated,0
+El tiene ir al cine,He has to (to) go (to) the movies,personXInf;generated,0
+Ella puede ayudar en casa,She can (to) help around the house,personXInf;generated,0
+Ella quiere ver la televisión,She wants (to) watch tv,personXInf;generated,0
+Ella puede ver la televisión,She can (to) watch tv,personXInf;generated,0
+Le gusta pintar,He likes (to) paint,personXInf;generated,0
+Tú sabes ir al cine,You know (to) go (to) the movies,personXInf;generated,0
+Yo tengo que nadar,I have to  (to) swim,personXInf;generated,0
+Yo necesito estudiar,I need (to) study,personXInf;generated,0
+Tú quieres escribir,You want (to) write,personXInf;generated,0
+Yo sé practica deportes,I know (to) play sports,personXInf;generated,0
+Tú vas a ir al cine,You are going to (to) go (to) the movies,personXInf;generated,0
+Tú puedes pintar,You can (to) paint,personXInf;generated,0
+Ella puede pintar,She can (to) paint,personXInf;generated,0
+Tú prefieres trabajar,You prefer (to) work,personXInf;generated,0
+El tiene escuchar música,He has to (to) listen (to) music,personXInf;generated,0
+Tú sabes practica deportes,You know (to) play sports,personXInf;generated,0
+Yo tengo que ver la televisión,I have to  (to) watch tv,personXInf;generated,0
+El va a ayudar en casa,He is going to (to) help around the house,personXInf;generated,0
+Yo Cocino; Té Cocinas; El Cocina,I cook; You cook; He cooks,conj;generated,0
+Yo Dibujo; Té Dibujas; El Dibuja,I draw; You draw; He draws,conj;generated,0
+Yo Escribo; Té Escribes; El Escribe,I write; You write; He writes,conj;generated,0
+Yo Estudio; Tu Estudias; El Estudia,I study; You study; He studies,conj;generated,0
+Yo Hablo; Tu Hablas; El Habla,I talk; You talk; He talks,conj;generated,0
+Yo Haco; Té Haces; El Hace,I do; You do; He does,conj;generated,0
+Yo Leo; Tu Lees; El Lee,I read; You read; He reads,conj;generated,0
+Yo Nado; Té Nadas; El Nada,I swim; You swim; He swims,conj;generated,0
+Yo Patino; Té Patinas; El Patina,I skate; You skate; He skates,conj;generated,0
+Yo Pinto; Tu Pintas; El Pinta,I paint; You paint; He paints,conj;generated,0
+Siempre,Always,frequency,0
+Nunca,Never,frequency,0
+Casi,Almost,frequency,0
+Aveces,Sometimes,frequency,0
+Todos los días,Every day,frequency,0
+Todos las semanas,Every week,frequency,0
+Todos los años,Every year,frequency,0
+frecuentamente,frequently,frequency,0
+Con mucho frecuenta,Regularly,frequency,0
+Muchas veces,Many times,frequency,0
+Pocas veces,Sometimes,frequency,0
+La semana que vienes,The coming week,frequency,0
+La semana proxima,Next week,frequency,0
+La mesa,The table,object,0
+Esas libros,Those books,thisEtc;generated,0
+Esta papel,This paper,thisEtc;generated,0
+Esa mesa,That table,thisEtc;generated,0
+Esta mesa,This table,thisEtc;generated,0
+Estas escritorios,These desks,thisEtc;generated,0
+Esas escuelas,Those schools,thisEtc;generated,0
+Esa computadora,That computer,thisEtc;generated,0
+Esas semanas,Those weeks,thisEtc;generated,0
+Esa semana,That week,thisEtc;generated,0
+Estas calendarios,These calendars,thisEtc;generated,0
+Esto diccionario,This dictionary,thisEtc;generated,0
+Esas archivadors,Those cabinets,thisEtc;generated,0
+Ese día,That day,thisEtc;generated,0
+Esa calculadora,That calculator,thisEtc;generated,1
+Esta capeta,This folder,thisEtc;generated,0
+Esa bolígrafo,That pen,thisEtc;generated,0
+Esas libros,Those books,thisEtc;generated,0
+Esta archivador,This cabinet,thisEtc;generated,0
+Esa capeta,That folder,thisEtc;generated,0
+Esa archivador,That cabinet,thisEtc;generated,0
+Estas papels,These papers,thisEtc;generated,0
+Esa semana,That week,thisEtc;generated,0
+Esa marcador,That marker,thisEtc;generated,0
+Esas agendas,Those planners,thisEtc;generated,0
+Esa agenda,That planner,thisEtc;generated,0
+Estas capetas,These folders,thisEtc;generated,1
+Estas reglas,These ruler/rules,thisEtc;generated,0
+Esas cuadernos,Those notebooks,thisEtc;generated,1
+Esas semanas,Those weeks,thisEtc;generated,0
+Esa mochila,That paperback,thisEtc;generated,0
+Esa pluma,That pen,thisEtc;generated,0
+Esa papel,That paper,thisEtc;generated,0
+Esa calculadora,That calculator,thisEtc;generated,0
+Esa cuaderno,That notebook,thisEtc;generated,0
+Esta fecha,This date,thisEtc;generated,0
+Esas escritorios,Those desks,thisEtc;generated,0
+Estas marcadors,These markers,thisEtc;generated,0
+Esa semana,That week,thisEtc;generated,0
+Esta lápiz,This pencil,thisEtc;generated,0
+Esa capeta,That folder,thisEtc;generated,0
+Esta escuela,This school,thisEtc;generated,0
+Esa lápiz,That pencil,thisEtc;generated,0
+Esta escritorio,This desk,thisEtc;generated,0
+Esas agendas,Those planners,thisEtc;generated,0
+Estas cuadernos,These notebooks,thisEtc;generated,0
+Estas cuadernos,These notebooks,thisEtc;generated,0
+Esos libros,Those books,thisEtc;generated,0
+Esta día,This day,thisEtc;generated,0
+Estas días,These days,thisEtc;generated,0
+Esa horario,That schedule,thisEtc;generated,0
+Tú necesitas esta archivador,You need this cabinet,personXThisEtc;generated,0
+Yo sé esta libro,I know this book,personXThisEtc;generated,0
+El tiene estas mesas,He has to these tables,personXThisEtc;generated,0
+Tú tienes que pintar esta escritorio,You have to paint this desk,personXThisEtc;generated,0
+El tiene esta escritorio,He has to this desk,personXThisEtc;generated,0
+Te gusta esa lápiz,You like that pencil,personXThisEtc;generated,0
+Ella necesita esa mochila,She needs that paperback,personXThisEtc;generated,0
+Ella va esta fecha,She is going to this date,personXThisEtc;generated,0
+Yo tengo que esta cuaderno,I have to  this notebook,personXThisEtc;generated,0
+El quiere esa fecha,He wants that date,personXThisEtc;generated,0
+El tiene esta papel,He has to this paper,personXThisEtc;generated,0
+El tiene esas capetas,He has to those folders,personXThisEtc;generated,0
+El va a estas papels,He is going to these papers,personXThisEtc;generated,0
+El prefiere esta computadora,He prefers this computer,personXThisEtc;generated,0
+Tú necesitas esta mesa,You need this table,personXThisEtc;generated,0
+El tiene esas diccionarios,He has to those dictionarys,personXThisEtc;generated,0
+El necesita esa escritorio,He needs that desk,personXThisEtc;generated,0
+Ella tiene esa marcador,She has to that marker,personXThisEtc;generated,0
+Ella prefiere estas calendarios,She prefers these calendars,personXThisEtc;generated,0
+El quiere estas archivadors,He wants these cabinets,personXThisEtc;generated,0
+Ella sabe estas computadoras,She knows these computers,personXThisEtc;generated,0
+Le gusta esta bolígrafo,He likes this pen,personXThisEtc;generated,0
+El sabe esta computadora,He knows this computer,personXThisEtc;generated,0
+Yo tengo que esta papel,I have to  this paper,personXThisEtc;generated,0
+Yo tengo que esas reglas,I have to  those ruler/rules,personXThisEtc;generated,0
+Yo quiero estas escritorios,I want these desks,personXThisEtc;generated,0
+Tú tienes que esa calculadora,You have to that calculator,personXThisEtc;generated,0
+Tú necesitas esas calculadoras,You need those calculators,personXThisEtc;generated,0
+Te gusta esas marcadors,You like those markers,personXThisEtc;generated,0
+Me gusta esa horario,I like that schedule,personXThisEtc;generated,0
+Tú vas a estas cuadernos,You are going to these notebooks,personXThisEtc;generated,0
+Ella tiene esas mesas,She has to those tables,personXThisEtc;generated,0
+Me gusta esta escuela,I like this school,personXThisEtc;generated,0
+Tú sabes esas plumas,You know those pens,personXThisEtc;generated,0
+Tú puedes esa diccionario,You can that dictionary,personXThisEtc;generated,0
+Tú tienes que esta lápiz,You have to this pencil,personXThisEtc;generated,0
+Yo quiero esta semana,I want this week,personXThisEtc;generated,0
+Me gusta esa pluma,I like that pen,personXThisEtc;generated,0
+El puede esa mochila,He can that paperback,personXThisEtc;generated,0
+Yo voy a esas semanas,I am going to those weeks,personXThisEtc;generated,0
+Le gusta esas libros,He likes those books,personXThisEtc;generated,0
+Ella necesita esta lápiz,She needs this pencil,personXThisEtc;generated,0
+Ella prefiere estas mochilas,She prefers these paperbacks,personXThisEtc;generated,0
+Tú vas a estas reglas,You are going to these ruler/rules,personXThisEtc;generated,0
+El tiene esa lápiz,He has to that pencil,personXThisEtc;generated,0
+Tú sabes esas computadoras,You know those computers,personXThisEtc;generated,0
+Yo quiero esas reglas,I want those ruler/rules,personXThisEtc;generated,0
+Ella puede esta papel,She can this paper,personXThisEtc;generated,0
+Yo voy a esos libros,I am going to those books,personXThisEtc;generated,1
+Tú vas a esas mesas,You are going to those tables,personXThisEtc;generated,0
+Estoy enfermo,I (m) am ill,ch04;toBeState,0
+Estoy enferma,I (female) am ill,ch04;toBeState,2
+Estoy cansado,I (masculin) am tired,ch04;toBeState,3
+Estoy cansada,I (female) am tired,ch04;toBeState,0
+Estas contento,You (masculin) are happy,ch04;toBeState,2
+Estas contenta,You (f) are happy,ch04;toBeState,1
+Esta deprimido,He is depressed,ch04;toBeState,0
+Esta deprimida,She is depressed,ch04;toBeState,0
+Estoy emocionado,I (m) am excited,ch04;toBeState,2
+Estoy emocionada,I (f) am excited,ch04;toBeState,4
+Esta frustrado,He is frustrated,ch04;toBeState,1
+Estas frustrada,You (f) are frustrated,ch04;toBeState,1
+Estoy harto,I (m) am fed up,ch04;toBeState,2
+Estoy harta,I (f) am fed up,ch04;toBeState,0
+Estas lista?,Are you (f) ready?,ch04;toBeState,1
+Estoy listo,I (m) am ready,ch04;toBeState,1
+Estoy nerviosa,I (f) am nervous,ch04;toBeState,0
+Estas nervioso?,Are you (m) nervous?,ch04;toBeState,0
+Estas ocupada?,Are you (f) busy?,ch04;toBeState,1
+Estoy ocupado,I (m) am busy,ch04;toBeState,0
+Estoy preocupado,I (m) am worried,ch04;toBeState,4
+Esta preocupada,She is worried,ch04;toBeState,1
+Estoy triste,I am sad,ch04;toBeState,1
+Alguilar,To rent,ch04;inf;verb;regVerb,0
+Rentar,To rent,ch04;inf;verb;regVerb,2
+Bailar,To dance,ch04;inf;verb;regVerb,0
+Cantar,To sing,ch04;inf;verb;regVerb,0
+Cocinar,To cook,ch04;inf;verb;regVerb,0
+Enseñar,To teach,ch04;inf;verb;regVerb,1
+Esquiar,To ski,ch04;inf;verb;regVerb,0
+Estudiar,To study,ch04;inf;verb;regVerb,0
+Fumar,To smoke,ch04;inf;verb;regVerb,0
+Hablar,To speak,ch04;inf;verb;regVerb,2
+Limpiar la casa,To clean the house,ch04;inf;verb;regVerb,2
+Manejar un carro,To drive a car,ch04;inf;verb;regVerb,1
+Mirar la tele,To watch tv,ch04;inf;verb;regVerb,1
+Montar en bicicleta,To ride a bicycle,ch04;inf;verb;regVerb,2
+Nadar,To swim,ch04;inf;verb;regVerb,0
+Necesitar,To need,ch04;inf;verb;regVerb,1
+Pintar,To paint,ch04;inf;verb;regVerb,2
+Platicar,To talk,ch04;inf;verb;regVerb,0
+Charlar,To chat,ch04;inf;verb;regVerb,0
+Preparar la cena,To prepare dinner,ch04;inf;verb;regVerb,1
+Tocar,To touch,ch04;inf;verb;regVerb,0
+Trabajar,To work,ch04;inf;verb;regVerb,3
+Usar la computadora,To use the computer,ch04;inf;verb;regVerb,1
+Viajar,To travel,ch04;inf;verb;regVerb,2
+Aprender,To learn,ch04;inf;verb;regVerb,1
+Abrir,To open,ch04;inf;verb;regVerb,2
+Comer,To eat,ch04;inf;verb;regVerb,0
+Correr,To run,ch04;inf;verb;regVerb,2
+Asistir a clase,To attend class,ch04;inf;verb;regVerb,0
+Beber,To drink,ch04;inf;verb;regVerb,1
+Escribir una carta,To write a letter,ch04;inf;verb;regVerb,1
+Leer un libro,To read a book,ch04;inf;verb;regVerb,2
+Vivir en la ciudad,To live in the city,ch04;inf;verb;regVerb,3
+Ir a una fiesta,To go to a party,ch04;inf;verb;irregVerb,0
+Ir de compras,To go shopping,ch04;inf;verb;irregVerb,0
+Jugar,To play (sports),ch04;inf;verb;irregVerb,4
+Pensar,To think,ch04;inf;verb;irregVerb,5
+Poder,To be able,ch04;inf;verb;irregVerb,2
+Preferir,To prefer,ch04;inf;verb;irregVerb,1
+Querer,To want,ch04;inf;verb;irregVerb,4
+Saber,To know (information),ch04;inf;verb;irregVerb,2
+Conocer,To know (how),ch04;inf;verb;regVerb,4
+Tener,To have,ch04;inf;verb;regVerb,1
+Ver,To see/watch,ch04;inf;verb;regVerb,1
+El campo,The countryside,ch04;noun,1
+El centro comercial,The mall,ch04;noun,2
+El gimnasio,The gym,ch04;noun,1
+El parque,The park,ch04;noun,0
+El parque de diversiones,The amusement park,ch04;noun,0
+La piscian,The swimming pool,ch04;noun,1
+La alberca,The swimming pool,ch04;noun,0
+La playa,The beach,ch04;noun,1
+¿Adónde?,To where?,ch04;questions,1
+¿Adónde vas?,Where are you going?,ch04;questions,4
+Conmigo,With me,ch04;words,0
+Contigo,With you,ch04;words,4
+Con él,With him,ch04;words,2
+Con ellla,With her,ch04;words,1
+Con nosotros,With us (m),ch04;words,1
+Con vosotros,"You you (plural, familiar, m)",ch04;words,1
+Con ustedes,"With you (plural, formal)",ch04;words,1
+Sin mí,Without me,ch04;words,1
+Sin ti,Without you,ch04;words,1
+Sin él,Without him,ch04;words,1
+Sin ella,Without her,ch04;words,2
+Sin nosotros,Without us,ch04;words,1
+Sin vosotros,"Without you (plural, familiar)",ch04;words,2
+Sin ustedes,"Withough you (plural, formal)",ch04;words,1
+El amigo,The friend (m),ch04;words,1
+La amiga,The friend (f),ch04;words,1
+Sol@,Alone,ch04;words,0
+Junt@s ,Together,ch04;words,1
+Tal vez,Perhaps,ch04;words,1
+Posiblemente,Possibly,ch04;words,0
+!Cómo no!,Of course!,ch04;words,0
+!Claro que no!,Of course not!,ch04;words,1
+De nada,You're welcome,ch04;words,0
+La estacíon,The season,ch04;words;seasons,0
+Las estaciones,The seasons,ch04;words;seasons;time,0
+La primavera,The spring,ch04;words;seasons;time,0
+El verano,The summer,ch04;words;seasons;time,1
+El otoño,The fall,ch04;words;seasons;time,0
+El invierno,The winter,ch04;words;seasons;time,1
+El fin de semana,On the weekend,ch04;words;time;frequency,0
+Los fines de semana,On the weekends,ch04;words;time;frequency,0
+Después de,After ..,ch04;words;time;frequency,2
+En/por la mañana,In the morning,ch04;words;time;frequency,0
+En/por la tarde,In the afternoon,ch04;words;time;frequency,2
+En/por la noche,At night,ch04;words;time;frequency,2
+Generalmente,Generally,ch04;words;time;frequency,2
+Hoy no,Not today,ch04;words,0
+!No me digas!,You don't say!,ch04;words,0
+!Genial!,Awesome,ch04;words,0
+!Qué lástima,What a pity!,ch04;words,1
+!Qué pena!,What a shame/how sad!,ch04;words,0
+La voz,The voice,ch04;words,1
+Las voces,The voices,ch04;words,1
+Algo ,Something,ch04;words,0
+Nada,Nothing,ch04;words,1
+El pasatiempo,The pastime,ch04;words,2
+Porque,Because,ch04;words,3
+Para nader,In order to swim,ch04;words;frequency,1
+Después de correr,After running,ch04;words;frequency,0
+Antes de trabacho,Before work,ch04;words;frequency,0
+Sin cosinar,Without cooking,ch04;words;frequency,1
+Las comidas,The meals,ch05;words;food,1
+Beber,To drink,ch05;verb;inf;food,0
+Tomar,To drink,ch05;verb;inf;food,2
+Desayunar,To eat breakfast,ch05;verb;inf;food,0
+Almorzar (o>ue),To eat lunch,ch05;verb;inf;food,0
+Cenar,To eat dinner,ch05;verb;inf;food,0
+La cena,The dinner,ch05;words;food,1
+La comida,The food,ch05;words;food,1
+La comida chatarra,The junk food,ch05;words;food,2
+El desayuno,Breakfast,ch05;words;food,1
+La merienda,Afternoon snack,ch05;words;food,0
+La botana,The snack,ch05;words;food,0
+El aperitivo,The appetizer,ch05;words;food,0
+Los refrigerios,The refreshments,ch05;words;food,1
+El enseña espagñol,He teaches spanish,ch04;sentences,0
+Yo necesito cantar para bailar,I need to sing in order to dance,ch04;sentences,2
+Yo necesito estudiar,I need to study,ch04;sentenes,2
+Estoy nervioso porque tenemos que ir a la clase espagñol en el sabado,"I am nervous, because we have to go to Spanish class on Saterday",ch04;sentences;longSentences,2
+Nosotros trabajamos juntos,We work together,ch04;sentences,2
+"Quando viajo, voy a te escribir una carta","When I travel, I am going to write you a letter",ch04;sentences,1
+"Yo voy a dormir poque, estoy cansado",I am going to sleep because I am tired,ch04;sentences,2
+Nosotros vamos a una fiesta sin vosotros,We are going to a party without you all,ch04;sentences,1
+El arroz,The rice,ch05;words;food,1
+El atún,The tuna,ch05;words;food,1
+El bisctec,The steak,ch05;words;food,0
+La carne,The meat (beef),ch05;words;food,2
+El cereal,The cereal,ch05;words;food,1
+La ensalada,The saled,ch05;words;food,0
+Las frutas,The fruits,ch05;words;food,1
+El aguacate,The avocado,ch05;words;food,0
+La palta,The avocado,ch05;words;food,1
+El arándano,The blueberry or cranberry,ch05;words;food,1
+La ciruela,The plum,ch05;words;food,2
+El durazno,The peach,ch05;words;food,1
+El melocotón,The peach,ch05;words;food,0
+El melón,The melon,ch05;words;food,0
+El cantaloupe,The melon,ch05;words;food,0
+La naranja,The orange,ch05;words;food,0
+La centarina,The nectarin,ch05;words;food,0
+La pera,The pear,ch05;words;food,1
+La piña,The Pineapple,ch05;words;food,2
+El plátano,The banana,ch05;words;food,1
+La banana,The banana,ch05;words;food,1
+La toronja,The grapefruit,ch05;words;food,0
+La sandía,The watermelon,ch05;words;food,1
+El tomato,The tomato,ch05;words;food,1
+El jitomato,The tomato,ch05;words;food,1
+La uva,The grape,ch05;words;food,1
+La zaramora,The blackberry,ch05;words;food,0
+Los frutos secos,The nuts,ch05;words;food,0
+Las nueces,The nuts,ch05;words;food,1
+La almendra,The almond,ch05;words;food,0
+El anacardo,The cashew,ch05;words;food,0
+El cacahuate,The peanut,ch05;words;food,0
+El maní,The peanut,ch05;words;food,0
+La nuez,The walnut,ch05;words;food,0
+El pistacho,The pistachio,ch05;words;food,0
+El guisado,The stew,ch05;words;food,1
+La hamburguesa,The hamburger,ch05;words;food,1
+La hamburguesa con queso,The cheeseburger,ch05;words;food,0
+El huevo,The egg,ch05;words;food,0
+El jamón,The ham,ch05;words;food,0
+La mayonesa,The mayonnaise,ch05;words;food,0
+La mostaza,The mustard,ch05;words;food,1
+El pan,The bread,ch05;words;food,0
+El pan tostado,The toast,ch05;words;food,0
+La papa,The potato,ch05;words;food,0
+Las papas al horno,The baked potatoes,ch05;words;food,0
+Las papas fritas,The french fries,ch05;words;food,0
+El pescado,The fish,ch05;words;food,1
+El pollo,The chicken,ch05;words;food,0
+El puerco,The pork,ch05;words;food,0
+El queso,The cheese,ch05;words;food,0
+La sal y la pimienta,Salt and pepper,ch05;words;food,1
+El sándwich,The sandwich,ch05;words;food,1
+La torta,The sandwich,ch05;words;food,1
+El sándwich de jamón,The ham sandwich,ch05;words;food,1
+La sopa,The soup,ch05;words;food,0
+La sopa de pollo,The chicken soup,ch05;words;food,0
+La sopa de tomate,The tomato soup,ch05;words;food,0
+La sopa de verduras,The vegetable soup,ch05;words;food,0
+Las verduras,The vegetables,ch05;words;food,0
+Los vegetales,The vegetables,ch05;words;food,2
+El ajo,The garlic,ch05;words;food,0
+El apio,Celery,ch05;words;food,0
+La berenjena,The eggplant,ch05;words;food,0
+El brócoli,The broccoli,ch05;words;food,3
+El brécol,The broccoli,ch05;words;food,1
+La calabacín,The zuccini,ch05;words;food,1
+La cebolla,The onion,ch05;words;food,1
+Los chícharos,The peas,ch05;words;food,0
+Los guisantees,The peas,ch05;words;food,0
+El chile,Chili pepper,ch05;words;food,2
+La col,The cabbage,ch05;words;food,1
+El repollo,The cabbage,ch05;words;food,0
+La col rizada,The kale,ch05;words;food,0
+La coliflor,The cauliflower,ch05;words;food,0
+Las espárragos,The asparagus,ch05;words;food,0
+Las espinacas,The spinach,ch05;words;food,1
+Las habichuelas verder,The green beans,ch05;words;food,1
+La lechuga,The lettuce,ch05;words;food,1
+El pepinillo,The pickle,ch05;words;food,0
+El pepino,The cucumber,ch05;words;food,0
+El pimiento,The bell pepper,ch05;words;food,0
+Los repollitos de Bruselas,The brussels sprouts,ch05;words;food,0
+El maíz,The corn,ch05;words;food,0
+La zanahoria,The carrot,ch05;words;food,1
+El yogur(t),The yogurt,ch05;words;food,0
+El aqua,The water,ch05;words;food,2
+El café,The coffee,ch05;words;food,2
+El jugo de naranja,The orange juice,ch05;words;food,0
+El jugo de manzana,The apple juice,ch05;words;food,0
+La leche,The milk,ch05;words;food,0
+El licuado,The smoothie,ch05;words;food,0
+La limonada,The lemonade,ch05;words;food,0
+El refresco/la gaseosa,The soft drink,ch05;words;food,1
+El té,The tea,ch05;words;food,0
+El té helado,The ice tea,ch05;words;food,0
+buen@ para la salud,Good for the health,ch05;words;food,0
+Mal@ para la salud,Bad for the health,ch05;words;food,0
+Delecios@,Delicious,ch05;words;food,0
+Sabros@,Delicious,ch05;words;food,0
+Asqueros@,Disgusting,ch05;words;food,2
+Auténtic@,Authentic,ch05;words;food,1
+Creo que sí,I believe so,ch05;words;food,0
+Creo que no,I don't think so,ch05;words;food,0
+!Qué asco!,How disgusting!,ch05;words;food,2
+!Quácala!,Yuck!,ch05;words;food,0
+De vez en cuando,From time to time,ch05;words;food,3
+Algo ,Something,ch05;words;food,1
+Nada,Nothing,ch05;words;food,1
+Algun(@),Some,ch05;words;food,0
+Ningun(@),None,ch05;words;food,0
+La experiencia,The experience,ch05;words;food,0
+Los dos,Both,ch05;words;food,0
+Tener hambre,To be (have) hungry,ch05;words;food,0
+Tener sed,To be (have) thirsty,ch05;words;food,1
+La familia,The family,ch06;family,0
+Los abuelos,The grand parents,ch06;family,0
+El abuelo,The grandpa,ch06;family,0
+La abuala,The grandma,ch06;family,0
+Los hermanos,The siblings,ch06;family,0
+El hermano,The brother,ch06;family,0
+La hermana,The sister,ch06;family,0
+Los hijos,The children,ch06;family,0
+El hijo,The son,ch06;family,0
+La hija,The daughter,ch06;family,0
+Los nietos,The grand children,ch06;family,0
+El nieto,The grandson,ch06;family,0
+La nieta,The granddaughter,ch06;family,2
+Los padres,The parents,ch06;family,0
+El padre,The father,ch06;family,0
+La madre,The mother,ch06;family,0
+Los primos,The cousins,ch06;family,0
+El primo,The cousin (m),ch06;family,0
+La prima,The cousin (f),ch06;family,0
+Los tíos,The aunts and uncles,ch06;family,0
+El tío,The uncle,ch06;family,0
+La tía,The aunt,ch06;family,0
+El/la hij@ únic@,The only child,ch06;family,0
+Los gemelos/Las gemelas,The twins,ch06;family,0
+Alt@,Tall,ch06,0
+Antipátic@,Mean,ch06,0
+Baj@,Short,ch06,0
+Bonit@,Pretty,ch06,0
+Cariños@,Affectionate,ch06,1
+Delgad@,Thin,ch06,1
+Fe@,Ugly,ch06,0
+Gord@,Fat,ch06,0
+Grande,Big/large,ch06,0
+Guap@,Good looking,ch06,0
+Inteligente,Smart,ch06,0
+Joven,Young,ch06,0
+Mayor/mayores,Older/greater,ch06,0
+Menor/menores,Younger/lesser,ch06,0
+Pequeñ@,Small,ch06,1
+Simpátic@,Nice,ch06,1
+Viej@,Old,ch06,0
+El pelo,The hair,ch06;hair,1
+Canoso,Grey,ch06;hair;color,0
+Castaño,Brown,ch06;hair;color,1
+Corto,Short,ch06;hair,0
+Rizado,Curly,ch06;hair,0
+Negro,Black,ch06;hair;color,1
+Rubio,Blond,ch06;hair;color,0
+Largo,Long,ch06;hair,0
+Liso,Straight,ch06;hair,0
+Pelirroj@,Redhead,ch06;body;eyes,0
+Los ojos,The eyes,ch06;body;eyes,0
+Azules,Blue eyes,ch06;body;eyes,0
+Verdes,Green eyes,ch06;body;eyes,0
+Marrones,Brown eyes,ch06;body;eyes,1
+La gente,People,ch06;person,0
+El chico/El muchacho,The boy,ch06;person,0
+La chica/La muchacha,The girl,ch06;person,0
+El hombre,The man,ch06;person,0
+La mujer,The woman,ch06;person,0
+La persona,The person,ch06;person,0
+¿Cómo es ella?,What is she like?,ch06,0
+Más adj que,More … than,ch06;compare,0
+Menos adj que,Less … than,ch06;compare,0
+Mayor que,Older then,ch06;compare,0
+Menor que,Younger than,ch06;compare,0
+Sesenta,Sixty,ch06;numbers,0
+Setenta,Seventy,ch06;numbers,0
+Ochenta,Eighty,ch06;numbers,0
+Noventa,Ninety,ch06;numbers,0
+Cien,Hundred,ch06;numbers,0
+El gato,The cat,ch06;animal,0
+El perro,The dog,ch06;animal,0
+De,Of (possession),ch06,1
+Alguien,Someone,ch06,0
+Nadie,No one,ch06,0
+Solo,Only,ch06,0
+Tod@s,Every/all/everyone,ch06,0
+La blusa,The blouse,ch07,0
+La bolsa,The bag,ch07,0
+El calcetín,The sock,ch07,0
+Los calcetines,The socks,ch07,0
+La camisa,The shirt,ch07,1
+La camiseta,The T-shirt,ch07,0
+La chaquete/La chamarra,The jacket,ch07,0
+La falda,The skirt,ch07,0
+Los jeans,The jeans,ch07,0
+Los pantalones (cortos),The (short) pants,ch07,0
+La ropa,Clothes,ch07,0
+La sudadera,The sweatshirt,ch07,0
+El suéter,The sweather,ch07,0
+El traje,The suit,ch07,0
+Los (zapatos de) tenis,The tennis shoes,ch07,0
+El vestido,The dress,ch07,0
+Los zapatos,The shoes,ch07,0
+El color,The color,ch07,0
+¿De qué color?,What color?,ch07,0
+Amarill@,Yellow,ch07,0
+Anaranjad@,Orange,ch07,0
+Azul(es),Blue,ch07,0
+Blanc@,White,ch07,0
+Gris(es),Gray,ch07,0
+Marrón(es),Brown,ch07,0
+Morad@,Purple,ch07,0
+Negr@,Black,ch07,0
+Roj@,Red,ch07,0
+Rosad@,Pink,ch07,0
+Verde,Green,ch07,0
+Nuev@,New,ch07,0
+El traje es gris,The suit is gray,ch07,0
+Ese/esa/eso,That,ch07,0
+Esos/esas,Those,ch07,0
+Este/esta/esto,This,ch07,0
+Estos/estas,These,ch07,0
+Otro@,Other/another,ch07,0
+El almacén,The warehouse,ch07,0
+La tienda de descuentos,The discount store,ch07,0
+La tienda de ropa,The clothing store,ch07,0
+La zapatería,The shoe store,ch07,0
+De compras,Out shopping,ch07,0
+Buscar,To look for,ch07,0
+Comprar,The buy,ch07,0
+Contar(o > ue),The count,ch07,0
+Constar(o > ue),To cost,ch07,0
+Desear,To want/to desire,ch07,0
+Encontrar (o > ue),The find,ch07,0
+Gratis/gratuit@,Free (no cost),ch07,0
+Llevar,To wear,ch07,0
+Pagar,To pay,ch07,0
+Para mí,For me,ch07,0
+Para ti,For you,ch07,0
+Para él/ella,For him/her,ch07,0
+Por,For (in exchange for),ch07,0
+Venir,To come,ch07,0
+Yo vengo,I come,ch07,0
+Los precios,The prices,ch07,0
+La ganga,The bargain,ch07,0
+!Qué ganga!,What a bargain!,ch07,0
+Barat@,Cheap/inexpensive,ch07,0
+Car@,Expensive,ch07,0
+El dependiente/la dependienta,The store clerk,ch07,0
+El/la joven Los jóvenes,Youngster(s),ch07,0
+Perdone,Excuse me,ch07,0
+Disculpe,Excuse me,ch07,0
+Por aquí,This way,ch07,0
+Por allí,That way,ch07,0
+!Vaya! !Anda!,Wow!,ch07,0
+A ver …,Let's see …,ch07,0
+Hasta,Until,ch07,0
+La mitad,The half,ch07,0
+Un tercio,One third,ch07,0
+Dos tercio,Two thirds,ch07,0
+Un cuarto,A quarter,ch07,0
+Tres cuartos,Three quarters,ch07,0
+Una quinta parte,One fifth (1/5),ch07,0
+Dos quintas partes,Two fifths (2/5),ch07,0
+Mejor que,Better than,ch07,0
+Peor que,Worse than,ch07,0
+Tan adj como,As … as,ch07,0
+Tanto sust. Como,As much … as,ch07,0
+¿Qué te parece?,What do you think?,ch07,0
+Me parece bien,It seems good to me,ch07,0
+Igual,Same/equal,ch07,0
+Yo conozco cómo escribir,I know how to write,ch04;sentences,3
+Yo sé cómo montar en bicicleta,I know how to ride a bicycle,ch04;sentences,2
+Me gusta cuando mi amigo Toco la guitarra,I like it when my friend plays the guitar,ch04;sentences,0
+No puedo estudiar espagñol esta noche porque necesito pintar la casa,I cannot study Spanish tonight because I need to paint the house,ch04;sentences,0
+De vez en cuando me gusta comer los huevos,From time to time I like to eat eggs,ch05;food;sentences,0
+El abre la puerta a su madre,To open,ch04;sentences,1
+Yo voy a comer este melón,I am going to eat this melon,ch05;food;sentences,0
+La comida está en el refrigerador,The food,ch05;food;sentences,0
+Ella quiere etos gatos,She wants,ch04;toWant;sentences,0
+Este chile es más caliente que ese chile,This chili is hotter than that chili,ch05;sentences,0
+Nosotros vamos rentar esa casa,We are going to rent that house,ch04;sentences,0
+Estos libros son muy interesante,These books are very interesting,ch04;sentences,1
+"Estoy harto, estudiar espagñol es muy difícil",I (m) am fed up,ch04;sentences,2
+Después de estudiar espagñol estoy cansado,After studying Spanish I am tired,ch04;sentences,0
+"Me gusta viajar, pero este año no puedo viajar mucho","I like to travel, but this year I cannot travel much",ch04;sentences,0
+No puedo comer sin cosinar,We can't eat without cooking,ch04;sentences,0
+"A ella, le gusta el jitomato",She likes the tomatoes,ch05;sentences,0
+"Si quere, puede rentar nuestra casa","I you want, you can rent our house",ch03;Possesion;sentences,0
+"Me gusta comer, pero no quero comer los vegetales","I like to eat, but I don't want to eat the vegetables",ch05;food;sentences,0
+Estoy nervioso porque tenemos que ir a la clase espagñol en el sabado,"I am nervous, because we have to go to Spanish class on Saterday",ch04;sentences;longSentences,1
+estar de vacaciones,to be on holiday,ch08,0
+ir de vacaciones,to go on holiday,ch08,0
+la catarat / la cascada,waterfall,ch08,0
+la catedral,cathedral,ch08,0
+la ciudad,the city,ch09,0
+el lago,the lake,ch10,0
+los lugares de interés,Places of interest,ch11,0
+el mar,ocean/sea,ch12,0
+la montaña,the mountain,ch13,0
+el museo,the museum,ch14,0
+el país,the country,ch15,0
+la pirámide,the pyramid,ch16,0
+las ruinas,the ruins,ch17,0
+el río,the river,ch18,0
+la selva tropical,the rain forest,ch19,0
+buccear,to scuba dive,ch20,0
+bajar,to go down,ch21,0
+los recuerdos,the souvinirs,ch22,0
+descansar,to rest,ch23,0
+esquiar,to ski,ch24,0
+explorar,to explore,ch25,0
+llevar,to carry / to wear,ch26,0
+pasear (en bote) ,to go around (by boat),ch27,0
+sacar fotos,to take photos,ch28,0
+la foto(grafia),the phote(graph),ch29,0
+subir,to go up,ch30,0
+tomar el sol,to sunbathe,ch31,0
+visitar,to visit,ch32,0
+el centro,the center,ch33,0
+pensar (e >> ie) + inf.,to plan to ?,ch34,0
+regresar,to return / to go back,ch35,0
+entrar (en),to enter (into),ch36,0
+salir (de),to leave (from),ch37,0
+yo salgo,I leave,ch38,0
+querer (e >> ie) + inf. ,to want to ?,ch39,0
+poder (o >> ue) + inf.,to be able to ?,ch40,0
+ir + a + inf.,to be going to ?,ch41,0
+necesitar,to need,ch42,0
+traer,to bring,ch43,0
+yo triago,I bring,ch44,0
+repetir (e >> I),to repeat,ch45,0
+el abrigo,the coat,ch46,0
+las gafas de sol,sunglasses,ch47,0
