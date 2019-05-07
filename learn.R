@@ -6,7 +6,7 @@ library(shiny)
 source("sourceLearn.R")
 
 # Load data
-content <- read.csv("content.csv", stringsAsFactors=FALSE)
+content <- read.csv("content.csv", stringsAsFactors=FALSE); head(content, 20)
 content$Count <- as.numeric(content$Count)
 
 ################
@@ -46,7 +46,16 @@ shinyTool <- shinyApp(
       column(1,actionButton("doDelete","Delete")),
       column(1,actionButton("doClear", "Clear")),
       column(1,actionButton("doAdd", "Add"))
-    )  
+    ),
+    fluidRow(
+      column(12,textInput("answer", "Enter answer", "",width='100%'))
+    ),
+    fluidRow(
+      column(1,actionButton("doCheck", "Check!"))
+    ),
+    fluidRow(
+      column(12,textInput("answerResult", "", "",width='100%'))
+    )
   ),
   server = function(input, output, session) { 
     
@@ -113,6 +122,21 @@ shinyTool <- shinyApp(
       updateTextInput(session,"EN",value="")
       updateTextInput(session,"TAG",value="")
       # Write csv file
+      write.csv(content,file="content.csv",row.names = FALSE)
+    })
+    
+    # Check 
+    observeEvent(input$doCheck, {
+      userEntered <- input$answer
+      spText <- GetAnswer(itemNr)    
+      updateTextInput(session,"SP",value=spText)
+      if (tolower(userEntered) == tolower(spText)) {
+        updateTextInput(session,"answerResult",value="Correct")
+        AddCheckResult(itemNr, "1")
+      } else {
+        updateTextInput(session,"answerResult",value="Wrong")
+        AddCheckResult(itemNr, "0")
+      }
       write.csv(content,file="content.csv",row.names = FALSE)
     })
     

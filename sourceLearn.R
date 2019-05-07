@@ -40,6 +40,15 @@ AddItem <- function(item, answer, tags) {
   assign("content",content,envir=.GlobalEnv)
 }
 
+# Function to add response character to history string
+AddCheckResult <- function(itemNr, boolChar) {
+  currentRespString <- content[itemNr, "History"]
+  respString <- paste(currentRespString, boolChar)
+  respString <- gsub("NA ", "", respString)
+  content[itemNr, "History"] <- respString
+  assign("content",content,envir=.GlobalEnv)
+}
+
 ##########################
 ### PERSON X INF ITEMS ###
 ##########################
